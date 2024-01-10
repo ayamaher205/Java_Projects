@@ -1,0 +1,4079 @@
+1, Kabul, 92020, AFG
+2, Qandahar, 92020, AFG
+3, Herat, 92020, AFG
+4, Mazar-e-Sharif, 92020, AFG
+5, Amsterdam, 92020, NLD
+6, Rotterdam, 92020, NLD
+7, Haag, 92020, NLD
+8, Utrecht, 92020, NLD
+9, Eindhoven, 92020, NLD
+10, Tilburg, 92020, NLD
+11, Groningen, 92020, NLD
+12, Breda, 92020, NLD
+13, Apeldoorn, 92020, NLD
+14, Nijmegen, 92020, NLD
+15, Enschede, 92020, NLD
+16, Haarlem, 92020, NLD
+17, Almere, 92020, NLD
+18, Arnhem, 92020, NLD
+19, Zaanstad, 92020, NLD
+20, Ã¯s-Hertogenbosch, 92020, NLD
+21, Amersfoort, 92020, NLD
+22, Maastricht, 92020, NLD
+23, Dordrecht, 92020, NLD
+24, Leiden, 92020, NLD
+25, Haarlemmermeer, 92020, NLD
+26, Zoetermeer, 92020, NLD
+27, Emmen, 92020, NLD
+28, Zwolle, 92020, NLD
+29, Ede, 92020, NLD
+30, Delft, 92020, NLD
+31, Heerlen, 92020, NLD
+32, Alkmaar, 92020, NLD
+33, Willemstad, 92020, ANT
+34, Tirana, 92020, ALB
+35, Alger, 92020, DZA
+36, Oran, 92020, DZA
+37, Constantine, 92020, DZA
+38, Annaba, 92020, DZA
+39, Batna, 92020, DZA
+40, Sâ€štif, 92020, DZA
+41, Sidi Bel AbbÅ s, 92020, DZA
+42, Skikda, 92020, DZA
+43, Biskra, 92020, DZA
+44, Blida (el-Boulaida), 92020, DZA
+45, Bâ€šjaâ€¹a, 92020, DZA
+46, Mostaganem, 92020, DZA
+47, Tâ€šbessa, 92020, DZA
+48, Tlemcen (Tilimsen), 92020, DZA
+49, Bâ€šchar, 92020, DZA
+50, Tiaret, 92020, DZA
+51, Ech-Chleff (el-Asnam), 92020, DZA
+52, Ghardaâ€¹a, 92020, DZA
+53, Tafuna, 92020, ASM
+54, Fagatogo, 92020, ASM
+55, Andorra la Vella, 92020, AND
+56, Luanda, 92020, AGO
+57, Huambo, 92020, AGO
+58, Lobito, 92020, AGO
+59, Benguela, 92020, AGO
+60, Namibe, 92020, AGO
+61, South Hill, 92020, AIA
+62, The Valley, 92020, AIA
+63, Saint JohnÃ¯s, 92020, ATG
+64, Dubai, 92020, ARE
+65, Abu Dhabi, 92020, ARE
+66, Sharja, 92020, ARE
+67, al-Ayn, 92020, ARE
+68, Ajman, 92020, ARE
+69, Buenos Aires, 92020, ARG
+70, La Matanza, 92020, ARG
+71, CÂ¢rdoba, 92020, ARG
+72, Rosario, 92020, ARG
+73, Lomas de Zamora, 92020, ARG
+74, Quilmes, 92020, ARG
+75, Almirante Brown, 92020, ARG
+76, La Plata, 92020, ARG
+77, Mar del Plata, 92020, ARG
+78, San Miguel de TucumÂ n, 92020, ARG
+79, LanÂ£s, 92020, ARG
+80, Merlo, 92020, ARG
+81, General San MartÂ¡n, 92020, ARG
+82, Salta, 92020, ARG
+83, Moreno, 92020, ARG
+84, Santa Fâ€š, 92020, ARG
+85, Avellaneda, 92020, ARG
+86, Tres de Febrero, 92020, ARG
+87, MorÂ¢n, 92020, ARG
+88, Florencio Varela, 92020, ARG
+89, San Isidro, 92020, ARG
+90, Tigre, 92020, ARG
+91, Malvinas Argentinas, 92020, ARG
+92, Vicente LÂ¢pez, 92020, ARG
+93, Berazategui, 92020, ARG
+94, Corrientes, 92020, ARG
+95, San Miguel, 92020, ARG
+96, BahÂ¡a Blanca, 92020, ARG
+97, Esteban EcheverrÂ¡a, 92020, ARG
+98, Resistencia, 92020, ARG
+99, Josâ€š C. Paz, 92020, ARG
+100, ParanÂ , 92020, ARG
+101, Godoy Cruz, 92020, ARG
+102, Posadas, 92020, ARG
+103, Guaymallâ€šn, 92020, ARG
+104, Santiago del Estero, 92020, ARG
+105, San Salvador de Jujuy, 92020, ARG
+106, Hurlingham, 92020, ARG
+107, Neuquâ€šn, 92020, ARG
+108, ItuzaingÂ¢, 92020, ARG
+109, San Fernando, 92020, ARG
+110, Formosa, 92020, ARG
+111, Las Heras, 92020, ARG
+112, La Rioja, 92020, ARG
+113, San Fernando del Valle de Cata, 92020, ARG
+114, RÂ¡o Cuarto, 92020, ARG
+115, Comodoro Rivadavia, 92020, ARG
+116, Mendoza, 92020, ARG
+117, San NicolÂ s de los Arroyos, 92020, ARG
+118, San Juan, 92020, ARG
+119, Escobar, 92020, ARG
+120, Concordia, 92020, ARG
+121, Pilar, 92020, ARG
+122, San Luis, 92020, ARG
+123, Ezeiza, 92020, ARG
+124, San Rafael, 92020, ARG
+125, Tandil, 92020, ARG
+126, Yerevan, 92020, ARM
+127, Gjumri, 92020, ARM
+128, Vanadzor, 92020, ARM
+129, Oranjestad, 92020, ABW
+130, Sydney, 92020, AUS
+131, Melbourne, 92020, AUS
+132, Brisbane, 92020, AUS
+133, Perth, 92020, AUS
+134, Adelaide, 92020, AUS
+135, Canberra, 92020, AUS
+136, Gold Coast, 92020, AUS
+137, Newcastle, 92020, AUS
+138, Central Coast, 92020, AUS
+139, Wollongong, 92020, AUS
+140, Hobart, 92020, AUS
+141, Geelong, 92020, AUS
+142, Townsville, 92020, AUS
+143, Cairns, 92020, AUS
+144, Baku, 92020, AZE
+145, Gâ€žncâ€ž, 92020, AZE
+146, Sumqayit, 92020, AZE
+147, Mingâ€žâ€¡evir, 92020, AZE
+148, Nassau, 92020, BHS
+149, al-Manama, 92020, BHR
+150, Dhaka, 92020, BGD
+151, Chittagong, 92020, BGD
+152, Khulna, 92020, BGD
+153, Rajshahi, 92020, BGD
+154, Narayanganj, 92020, BGD
+155, Rangpur, 92020, BGD
+156, Mymensingh, 92020, BGD
+157, Barisal, 92020, BGD
+158, Tungi, 92020, BGD
+159, Jessore, 92020, BGD
+160, Comilla, 92020, BGD
+161, Nawabganj, 92020, BGD
+162, Dinajpur, 92020, BGD
+163, Bogra, 92020, BGD
+164, Sylhet, 92020, BGD
+165, Brahmanbaria, 92020, BGD
+166, Tangail, 92020, BGD
+167, Jamalpur, 92020, BGD
+168, Pabna, 92020, BGD
+169, Naogaon, 92020, BGD
+170, Sirajganj, 92020, BGD
+171, Narsinghdi, 92020, BGD
+172, Saidpur, 92020, BGD
+173, Gazipur, 92020, BGD
+174, Bridgetown, 92020, BRB
+175, Antwerpen, 92020, BEL
+176, Gent, 92020, BEL
+177, Charleroi, 92020, BEL
+178, LiÅ ge, 92020, BEL
+179, Bruxelles [Brussel], 92020, BEL
+180, Brugge, 92020, BEL
+181, Schaerbeek, 92020, BEL
+182, Namur, 92020, BEL
+183, Mons, 92020, BEL
+184, Belize City, 92020, BLZ
+185, Belmopan, 92020, BLZ
+186, Cotonou, 92020, BEN
+187, Porto-Novo, 92020, BEN
+188, Djougou, 92020, BEN
+189, Parakou, 92020, BEN
+190, Saint George, 92020, BMU
+191, Hamilton, 92020, BMU
+192, Thimphu, 92020, BTN
+193, Santa Cruz de la Sierra, 92020, BOL
+194, La Paz, 92020, BOL
+195, El Alto, 92020, BOL
+196, Cochabamba, 92020, BOL
+197, Oruro, 92020, BOL
+198, Sucre, 92020, BOL
+199, PotosÂ¡, 92020, BOL
+200, Tarija, 92020, BOL
+201, Sarajevo, 92020, BIH
+202, Banja Luka, 92020, BIH
+203, Zenica, 92020, BIH
+204, Gaborone, 92020, BWA
+205, Francistown, 92020, BWA
+206, SÃ†o Paulo, 92020, BRA
+207, Rio de Janeiro, 92020, BRA
+208, Salvador, 92020, BRA
+209, Belo Horizonte, 92020, BRA
+210, Fortaleza, 92020, BRA
+211, BrasÂ¡lia, 92020, BRA
+212, Curitiba, 92020, BRA
+213, Recife, 92020, BRA
+214, Porto Alegre, 92020, BRA
+215, Manaus, 92020, BRA
+216, Belâ€šm, 92020, BRA
+217, Guarulhos, 92020, BRA
+218, GoiÆ’nia, 92020, BRA
+219, Campinas, 92020, BRA
+220, SÃ†o Gonâ€¡alo, 92020, BRA
+221, Nova Iguaâ€¡u, 92020, BRA
+222, SÃ†o LuÂ¡s, 92020, BRA
+223, MaceiÂ¢, 92020, BRA
+224, Duque de Caxias, 92020, BRA
+225, SÃ†o Bernardo do Campo, 92020, BRA
+226, Teresina, 92020, BRA
+227, Natal, 92020, BRA
+228, Osasco, 92020, BRA
+229, Campo Grande, 92020, BRA
+230, Santo Andrâ€š, 92020, BRA
+231, JoÃ†o Pessoa, 92020, BRA
+232, JaboatÃ†o dos Guararapes, 92020, BRA
+233, Contagem, 92020, BRA
+234, SÃ†o Josâ€š dos Campos, 92020, BRA
+235, UberlÆ’ndia, 92020, BRA
+236, Feira de Santana, 92020, BRA
+237, RibeirÃ†o Preto, 92020, BRA
+238, Sorocaba, 92020, BRA
+239, NiterÂ¢i, 92020, BRA
+240, CuiabÂ , 92020, BRA
+241, Juiz de Fora, 92020, BRA
+242, Aracaju, 92020, BRA
+243, SÃ†o JoÃ†o de Meriti, 92020, BRA
+244, Londrina, 92020, BRA
+245, Joinville, 92020, BRA
+246, Belford Roxo, 92020, BRA
+247, Santos, 92020, BRA
+248, Ananindeua, 92020, BRA
+249, Campos dos Goytacazes, 92020, BRA
+250, MauÂ , 92020, BRA
+251, CarapicuÂ¡ba, 92020, BRA
+252, Olinda, 92020, BRA
+253, Campina Grande, 92020, BRA
+254, SÃ†o Josâ€š do Rio Preto, 92020, BRA
+255, Caxias do Sul, 92020, BRA
+256, Moji das Cruzes, 92020, BRA
+257, Diadema, 92020, BRA
+258, Aparecida de GoiÆ’nia, 92020, BRA
+259, Piracicaba, 92020, BRA
+260, Cariacica, 92020, BRA
+261, Vila Velha, 92020, BRA
+262, Pelotas, 92020, BRA
+263, Bauru, 92020, BRA
+264, Porto Velho, 92020, BRA
+265, Serra, 92020, BRA
+266, Betim, 92020, BRA
+267, JundÂ¡aÂ¡, 92020, BRA
+268, Canoas, 92020, BRA
+269, Franca, 92020, BRA
+270, SÃ†o Vicente, 92020, BRA
+271, MaringÂ , 92020, BRA
+272, Montes Claros, 92020, BRA
+273, AnÂ polis, 92020, BRA
+274, FlorianÂ¢polis, 92020, BRA
+275, PetrÂ¢polis, 92020, BRA
+276, Itaquaquecetuba, 92020, BRA
+277, VitÂ¢ria, 92020, BRA
+278, Ponta Grossa, 92020, BRA
+279, Rio Branco, 92020, BRA
+280, Foz do Iguaâ€¡u, 92020, BRA
+281, MacapÂ , 92020, BRA
+282, Ilhâ€šus, 92020, BRA
+283, VitÂ¢ria da Conquista, 92020, BRA
+284, Uberaba, 92020, BRA
+285, Paulista, 92020, BRA
+286, Limeira, 92020, BRA
+287, Blumenau, 92020, BRA
+288, Caruaru, 92020, BRA
+289, Santarâ€šm, 92020, BRA
+290, Volta Redonda, 92020, BRA
+291, Novo Hamburgo, 92020, BRA
+292, Caucaia, 92020, BRA
+293, Santa Maria, 92020, BRA
+294, Cascavel, 92020, BRA
+295, GuarujÂ , 92020, BRA
+296, RibeirÃ†o das Neves, 92020, BRA
+297, Governador Valadares, 92020, BRA
+298, Taubatâ€š, 92020, BRA
+299, Imperatriz, 92020, BRA
+300, GravataÂ¡, 92020, BRA
+301, Embu, 92020, BRA
+302, MossorÂ¢, 92020, BRA
+303, VÂ rzea Grande, 92020, BRA
+304, Petrolina, 92020, BRA
+305, Barueri, 92020, BRA
+306, ViamÃ†o, 92020, BRA
+307, Ipatinga, 92020, BRA
+308, Juazeiro, 92020, BRA
+309, Juazeiro do Norte, 92020, BRA
+310, TaboÃ†o da Serra, 92020, BRA
+311, SÃ†o Josâ€š dos Pinhais, 92020, BRA
+312, Magâ€š, 92020, BRA
+313, Suzano, 92020, BRA
+314, SÃ†o Leopoldo, 92020, BRA
+315, MarÂ¡lia, 92020, BRA
+316, SÃ†o Carlos, 92020, BRA
+317, Sumarâ€š, 92020, BRA
+318, Presidente Prudente, 92020, BRA
+319, DivinÂ¢polis, 92020, BRA
+320, Sete Lagoas, 92020, BRA
+321, Rio Grande, 92020, BRA
+322, Itabuna, 92020, BRA
+323, Jequiâ€š, 92020, BRA
+324, Arapiraca, 92020, BRA
+325, Colombo, 92020, BRA
+326, Americana, 92020, BRA
+327, Alvorada, 92020, BRA
+328, Araraquara, 92020, BRA
+329, ItaboraÂ¡, 92020, BRA
+330, Santa BÂ rbara dÃ¯Oeste, 92020, BRA
+331, Nova Friburgo, 92020, BRA
+332, JacareÂ¡, 92020, BRA
+333, Araâ€¡atuba, 92020, BRA
+334, Barra Mansa, 92020, BRA
+335, Praia Grande, 92020, BRA
+336, MarabÂ , 92020, BRA
+337, CriciÂ£ma, 92020, BRA
+338, Boa Vista, 92020, BRA
+339, Passo Fundo, 92020, BRA
+340, Dourados, 92020, BRA
+341, Santa Luzia, 92020, BRA
+342, Rio Claro, 92020, BRA
+343, MaracanaÂ£, 92020, BRA
+344, Guarapuava, 92020, BRA
+345, RondonÂ¢polis, 92020, BRA
+346, SÃ†o Josâ€š, 92020, BRA
+347, Cachoeiro de Itapemirim, 92020, BRA
+348, NilÂ¢polis, 92020, BRA
+349, Itapevi, 92020, BRA
+350, Cabo de Santo Agostinho, 92020, BRA
+351, Camaâ€¡ari, 92020, BRA
+352, Sobral, 92020, BRA
+353, ItajaÂ¡, 92020, BRA
+354, ChapecÂ¢, 92020, BRA
+355, Cotia, 92020, BRA
+356, Lages, 92020, BRA
+357, Ferraz de Vasconcelos, 92020, BRA
+358, Indaiatuba, 92020, BRA
+359, HortolÆ’ndia, 92020, BRA
+360, Caxias, 92020, BRA
+361, SÃ†o Caetano do Sul, 92020, BRA
+362, Itu, 92020, BRA
+363, Nossa Senhora do Socorro, 92020, BRA
+364, ParnaÂ¡ba, 92020, BRA
+365, Poâ€¡os de Caldas, 92020, BRA
+366, TeresÂ¢polis, 92020, BRA
+367, Barreiras, 92020, BRA
+368, Castanhal, 92020, BRA
+369, Alagoinhas, 92020, BRA
+370, Itapecerica da Serra, 92020, BRA
+371, Uruguaiana, 92020, BRA
+372, ParanaguÂ , 92020, BRA
+373, Ibiritâ€š, 92020, BRA
+374, Timon, 92020, BRA
+375, LuziÆ’nia, 92020, BRA
+376, Macaâ€š, 92020, BRA
+377, TeÂ¢filo Otoni, 92020, BRA
+378, Moji-Guaâ€¡u, 92020, BRA
+379, Palmas, 92020, BRA
+380, Pindamonhangaba, 92020, BRA
+381, Francisco Morato, 92020, BRA
+382, Bagâ€š, 92020, BRA
+383, Sapucaia do Sul, 92020, BRA
+384, Cabo Frio, 92020, BRA
+385, Itapetininga, 92020, BRA
+386, Patos de Minas, 92020, BRA
+387, Camaragibe, 92020, BRA
+388, Braganâ€¡a Paulista, 92020, BRA
+389, Queimados, 92020, BRA
+390, AraguaÂ¡na, 92020, BRA
+391, Garanhuns, 92020, BRA
+392, VitÂ¢ria de Santo AntÃ†o, 92020, BRA
+393, Santa Rita, 92020, BRA
+394, Barbacena, 92020, BRA
+395, Abaetetuba, 92020, BRA
+396, JaÂ£, 92020, BRA
+397, Lauro de Freitas, 92020, BRA
+398, Franco da Rocha, 92020, BRA
+399, Teixeira de Freitas, 92020, BRA
+400, Varginha, 92020, BRA
+401, RibeirÃ†o Pires, 92020, BRA
+402, SabarÂ , 92020, BRA
+403, Catanduva, 92020, BRA
+404, Rio Verde, 92020, BRA
+405, Botucatu, 92020, BRA
+406, Colatina, 92020, BRA
+407, Santa Cruz do Sul, 92020, BRA
+408, Linhares, 92020, BRA
+409, Apucarana, 92020, BRA
+410, Barretos, 92020, BRA
+411, GuaratinguetÂ , 92020, BRA
+412, Cachoeirinha, 92020, BRA
+413, CodÂ¢, 92020, BRA
+414, JaraguÂ  do Sul, 92020, BRA
+415, CubatÃ†o, 92020, BRA
+416, Itabira, 92020, BRA
+417, Itaituba, 92020, BRA
+418, Araras, 92020, BRA
+419, Resende, 92020, BRA
+420, Atibaia, 92020, BRA
+421, Pouso Alegre, 92020, BRA
+422, Toledo, 92020, BRA
+423, Crato, 92020, BRA
+424, Passos, 92020, BRA
+425, Araguari, 92020, BRA
+426, SÃ†o Josâ€š de Ribamar, 92020, BRA
+427, Pinhais, 92020, BRA
+428, SertÃ†ozinho, 92020, BRA
+429, Conselheiro Lafaiete, 92020, BRA
+430, Paulo Afonso, 92020, BRA
+431, Angra dos Reis, 92020, BRA
+432, EunÂ polis, 92020, BRA
+433, Salto, 92020, BRA
+434, Ourinhos, 92020, BRA
+435, Parnamirim, 92020, BRA
+436, Jacobina, 92020, BRA
+437, Coronel Fabriciano, 92020, BRA
+438, Birigui, 92020, BRA
+439, TatuÂ¡, 92020, BRA
+440, Ji-ParanÂ , 92020, BRA
+441, Bacabal, 92020, BRA
+442, CametÂ , 92020, BRA
+443, GuaÂ¡ba, 92020, BRA
+444, SÃ†o Lourenâ€¡o da Mata, 92020, BRA
+445, Santana do Livramento, 92020, BRA
+446, Votorantim, 92020, BRA
+447, Campo Largo, 92020, BRA
+448, Patos, 92020, BRA
+449, Ituiutaba, 92020, BRA
+450, CorumbÂ , 92020, BRA
+451, Palhoâ€¡a, 92020, BRA
+452, Barra do PiraÂ¡, 92020, BRA
+453, Bento Gonâ€¡alves, 92020, BRA
+454, PoÂ , 92020, BRA
+455, Âµguas Lindas de GoiÂ s, 92020, BRA
+456, London, 92020, GBR
+457, Birmingham, 92020, GBR
+458, Glasgow, 92020, GBR
+459, Liverpool, 92020, GBR
+460, Edinburgh, 92020, GBR
+461, Sheffield, 92020, GBR
+462, Manchester, 92020, GBR
+463, Leeds, 92020, GBR
+464, Bristol, 92020, GBR
+465, Cardiff, 92020, GBR
+466, Coventry, 92020, GBR
+467, Leicester, 92020, GBR
+468, Bradford, 92020, GBR
+469, Belfast, 92020, GBR
+470, Nottingham, 92020, GBR
+471, Kingston upon Hull, 92020, GBR
+472, Plymouth, 92020, GBR
+473, Stoke-on-Trent, 92020, GBR
+474, Wolverhampton, 92020, GBR
+475, Derby, 92020, GBR
+476, Swansea, 92020, GBR
+477, Southampton, 92020, GBR
+478, Aberdeen, 92020, GBR
+479, Northampton, 92020, GBR
+480, Dudley, 92020, GBR
+481, Portsmouth, 92020, GBR
+482, Newcastle upon Tyne, 92020, GBR
+483, Sunderland, 92020, GBR
+484, Luton, 92020, GBR
+485, Swindon, 92020, GBR
+486, Southend-on-Sea, 92020, GBR
+487, Walsall, 92020, GBR
+488, Bournemouth, 92020, GBR
+489, Peterborough, 92020, GBR
+490, Brighton, 92020, GBR
+491, Blackpool, 92020, GBR
+492, Dundee, 92020, GBR
+493, West Bromwich, 92020, GBR
+494, Reading, 92020, GBR
+495, Oldbury/Smethwick (Warley), 92020, GBR
+496, Middlesbrough, 92020, GBR
+497, Huddersfield, 92020, GBR
+498, Oxford, 92020, GBR
+499, Poole, 92020, GBR
+500, Bolton, 92020, GBR
+501, Blackburn, 92020, GBR
+502, Newport, 92020, GBR
+503, Preston, 92020, GBR
+504, Stockport, 92020, GBR
+505, Norwich, 92020, GBR
+506, Rotherham, 92020, GBR
+507, Cambridge, 92020, GBR
+508, Watford, 92020, GBR
+509, Ipswich, 92020, GBR
+510, Slough, 92020, GBR
+511, Exeter, 92020, GBR
+512, Cheltenham, 92020, GBR
+513, Gloucester, 92020, GBR
+514, Saint Helens, 92020, GBR
+515, Sutton Coldfield, 92020, GBR
+516, York, 92020, GBR
+517, Oldham, 92020, GBR
+518, Basildon, 92020, GBR
+519, Worthing, 92020, GBR
+520, Chelmsford, 92020, GBR
+521, Colchester, 92020, GBR
+522, Crawley, 92020, GBR
+523, Gillingham, 92020, GBR
+524, Solihull, 92020, GBR
+525, Rochdale, 92020, GBR
+526, Birkenhead, 92020, GBR
+527, Worcester, 92020, GBR
+528, Hartlepool, 92020, GBR
+529, Halifax, 92020, GBR
+530, Woking/Byfleet, 92020, GBR
+531, Southport, 92020, GBR
+532, Maidstone, 92020, GBR
+533, Eastbourne, 92020, GBR
+534, Grimsby, 92020, GBR
+535, Saint Helier, 92020, GBR
+536, Douglas, 92020, GBR
+537, Road Town, 92020, VGB
+538, Bandar Seri Begawan, 92020, BRN
+539, Sofija, 92020, BGR
+540, Plovdiv, 92020, BGR
+541, Varna, 92020, BGR
+542, Burgas, 92020, BGR
+543, Ruse, 92020, BGR
+544, Stara Zagora, 92020, BGR
+545, Pleven, 92020, BGR
+546, Sliven, 92020, BGR
+547, Dobric, 92020, BGR
+548, ?umen, 92020, BGR
+549, Ouagadougou, 92020, BFA
+550, Bobo-Dioulasso, 92020, BFA
+551, Koudougou, 92020, BFA
+552, Bujumbura, 92020, BDI
+553, George Town, 92020, CYM
+554, Santiago de Chile, 92020, CHL
+555, Puente Alto, 92020, CHL
+556, ViÂ¤a del Mar, 92020, CHL
+557, ValparaÂ¡so, 92020, CHL
+558, Talcahuano, 92020, CHL
+559, Antofagasta, 92020, CHL
+560, San Bernardo, 92020, CHL
+561, Temuco, 92020, CHL
+562, ConcepciÂ¢n, 92020, CHL
+563, Rancagua, 92020, CHL
+564, Arica, 92020, CHL
+565, Talca, 92020, CHL
+566, ChillÂ n, 92020, CHL
+567, Iquique, 92020, CHL
+568, Los Angeles, 92020, CHL
+569, Puerto Montt, 92020, CHL
+570, Coquimbo, 92020, CHL
+571, Osorno, 92020, CHL
+572, La Serena, 92020, CHL
+573, Calama, 92020, CHL
+574, Valdivia, 92020, CHL
+575, Punta Arenas, 92020, CHL
+576, CopiapÂ¢, 92020, CHL
+577, Quilpuâ€š, 92020, CHL
+578, CuricÂ¢, 92020, CHL
+579, Ovalle, 92020, CHL
+580, Coronel, 92020, CHL
+581, San Pedro de la Paz, 92020, CHL
+582, Melipilla, 92020, CHL
+583, Avarua, 92020, COK
+584, San Josâ€š, 92020, CRI
+585, Djibouti, 92020, DJI
+586, Roseau, 92020, DMA
+587, Santo Domingo de GuzmÂ n, 92020, DOM
+588, Santiago de los Caballeros, 92020, DOM
+589, La Romana, 92020, DOM
+590, San Pedro de MacorÂ¡s, 92020, DOM
+591, San Francisco de MacorÂ¡s, 92020, DOM
+592, San Felipe de Puerto Plata, 92020, DOM
+593, Guayaquil, 92020, ECU
+594, Quito, 92020, ECU
+595, Cuenca, 92020, ECU
+596, Machala, 92020, ECU
+597, Santo Domingo de los Colorados, 92020, ECU
+598, Portoviejo, 92020, ECU
+599, Ambato, 92020, ECU
+600, Manta, 92020, ECU
+601, Duran [Eloy Alfaro], 92020, ECU
+602, Ibarra, 92020, ECU
+603, Quevedo, 92020, ECU
+604, Milagro, 92020, ECU
+605, Loja, 92020, ECU
+606, RÂ¡obamba, 92020, ECU
+607, Esmeraldas, 92020, ECU
+608, Cairo, 92020, EGY
+609, Alexandria, 92020, EGY
+610, Giza, 92020, EGY
+611, Shubra al-Khayma, 92020, EGY
+612, Port Said, 92020, EGY
+613, Suez, 92020, EGY
+614, al-Mahallat al-Kubra, 92020, EGY
+615, Tanta, 92020, EGY
+616, al-Mansura, 92020, EGY
+617, Luxor, 92020, EGY
+618, Asyut, 92020, EGY
+619, Bahtim, 92020, EGY
+620, Zagazig, 92020, EGY
+621, al-Faiyum, 92020, EGY
+622, Ismailia, 92020, EGY
+623, Kafr al-Dawwar, 92020, EGY
+624, Assuan, 92020, EGY
+625, Damanhur, 92020, EGY
+626, al-Minya, 92020, EGY
+627, Bani Suwayf, 92020, EGY
+628, Qina, 92020, EGY
+629, Sawhaj, 92020, EGY
+630, Shibin al-Kawm, 92020, EGY
+631, Bulaq al-Dakrur, 92020, EGY
+632, Banha, 92020, EGY
+633, Warraq al-Arab, 92020, EGY
+634, Kafr al-Shaykh, 92020, EGY
+635, Mallawi, 92020, EGY
+636, Bilbays, 92020, EGY
+637, Mit Ghamr, 92020, EGY
+638, al-Arish, 92020, EGY
+639, Talkha, 92020, EGY
+640, Qalyub, 92020, EGY
+641, Jirja, 92020, EGY
+642, Idfu, 92020, EGY
+643, al-Hawamidiya, 92020, EGY
+644, Disuq, 92020, EGY
+645, San Salvador, 92020, SLV
+646, Santa Ana, 92020, SLV
+647, Mejicanos, 92020, SLV
+648, Soyapango, 92020, SLV
+649, San Miguel, 92020, SLV
+650, Nueva San Salvador, 92020, SLV
+651, Apopa, 92020, SLV
+652, Asmara, 92020, ERI
+653, Madrid, 92020, ESP
+654, Barcelona, 92020, ESP
+655, Valencia, 92020, ESP
+656, Sevilla, 92020, ESP
+657, Zaragoza, 92020, ESP
+658, MÂ laga, 92020, ESP
+659, Bilbao, 92020, ESP
+660, Las Palmas de Gran Canaria, 92020, ESP
+661, Murcia, 92020, ESP
+662, Palma de Mallorca, 92020, ESP
+663, Valladolid, 92020, ESP
+664, CÂ¢rdoba, 92020, ESP
+665, Vigo, 92020, ESP
+666, Alicante [Alacant], 92020, ESP
+667, GijÂ¢n, 92020, ESP
+668, LÃ¯Hospitalet de Llobregat, 92020, ESP
+669, Granada, 92020, ESP
+670, A CoruÂ¤a (La CoruÂ¤a), 92020, ESP
+671, Vitoria-Gasteiz, 92020, ESP
+672, Santa Cruz de Tenerife, 92020, ESP
+673, Badalona, 92020, ESP
+674, Oviedo, 92020, ESP
+675, MÂ¢stoles, 92020, ESP
+676, Elche [Elx], 92020, ESP
+677, Sabadell, 92020, ESP
+678, Santander, 92020, ESP
+679, Jerez de la Frontera, 92020, ESP
+680, Pamplona [IruÂ¤a], 92020, ESP
+681, Donostia-San SebastiÂ n, 92020, ESP
+682, Cartagena, 92020, ESP
+683, Leganâ€šs, 92020, ESP
+684, Fuenlabrada, 92020, ESP
+685, AlmerÂ¡a, 92020, ESP
+686, Terrassa, 92020, ESP
+687, AlcalÂ  de Henares, 92020, ESP
+688, Burgos, 92020, ESP
+689, Salamanca, 92020, ESP
+690, Albacete, 92020, ESP
+691, Getafe, 92020, ESP
+692, CÂ diz, 92020, ESP
+693, AlcorcÂ¢n, 92020, ESP
+694, Huelva, 92020, ESP
+695, LeÂ¢n, 92020, ESP
+696, CastellÂ¢n de la Plana [Castell, 92020, ESP
+697, Badajoz, 92020, ESP
+698, [San CristÂ¢bal de] la Laguna, 92020, ESP
+699, LogroÂ¤o, 92020, ESP
+700, Santa Coloma de Gramenet, 92020, ESP
+701, Tarragona, 92020, ESP
+702, Lleida (Lâ€šrida), 92020, ESP
+703, Jaâ€šn, 92020, ESP
+704, Ourense (Orense), 92020, ESP
+705, MatarÂ¢, 92020, ESP
+706, Algeciras, 92020, ESP
+707, Marbella, 92020, ESP
+708, Barakaldo, 92020, ESP
+709, Dos Hermanas, 92020, ESP
+710, Santiago de Compostela, 92020, ESP
+711, TorrejÂ¢n de Ardoz, 92020, ESP
+712, Cape Town, 92020, ZAF
+713, Soweto, 92020, ZAF
+714, Johannesburg, 92020, ZAF
+715, Port Elizabeth, 92020, ZAF
+716, Pretoria, 92020, ZAF
+717, Inanda, 92020, ZAF
+718, Durban, 92020, ZAF
+719, Vanderbijlpark, 92020, ZAF
+720, Kempton Park, 92020, ZAF
+721, Alberton, 92020, ZAF
+722, Pinetown, 92020, ZAF
+723, Pietermaritzburg, 92020, ZAF
+724, Benoni, 92020, ZAF
+725, Randburg, 92020, ZAF
+726, Umlazi, 92020, ZAF
+727, Bloemfontein, 92020, ZAF
+728, Vereeniging, 92020, ZAF
+729, Wonderboom, 92020, ZAF
+730, Roodepoort, 92020, ZAF
+731, Boksburg, 92020, ZAF
+732, Klerksdorp, 92020, ZAF
+733, Soshanguve, 92020, ZAF
+734, Newcastle, 92020, ZAF
+735, East London, 92020, ZAF
+736, Welkom, 92020, ZAF
+737, Kimberley, 92020, ZAF
+738, Uitenhage, 92020, ZAF
+739, Chatsworth, 92020, ZAF
+740, Mdantsane, 92020, ZAF
+741, Krugersdorp, 92020, ZAF
+742, Botshabelo, 92020, ZAF
+743, Brakpan, 92020, ZAF
+744, Witbank, 92020, ZAF
+745, Oberholzer, 92020, ZAF
+746, Germiston, 92020, ZAF
+747, Springs, 92020, ZAF
+748, Westonaria, 92020, ZAF
+749, Randfontein, 92020, ZAF
+750, Paarl, 92020, ZAF
+751, Potchefstroom, 92020, ZAF
+752, Rustenburg, 92020, ZAF
+753, Nigel, 92020, ZAF
+754, George, 92020, ZAF
+755, Ladysmith, 92020, ZAF
+756, Addis Abeba, 92020, ETH
+757, Dire Dawa, 92020, ETH
+758, Nazret, 92020, ETH
+759, Gonder, 92020, ETH
+760, Dese, 92020, ETH
+761, Mekele, 92020, ETH
+762, Bahir Dar, 92020, ETH
+763, Stanley, 92020, FLK
+764, Suva, 92020, FJI
+765, Quezon, 92020, PHL
+766, Manila, 92020, PHL
+767, Kalookan, 92020, PHL
+768, Davao, 92020, PHL
+769, Cebu, 92020, PHL
+770, Zamboanga, 92020, PHL
+771, Pasig, 92020, PHL
+772, Valenzuela, 92020, PHL
+773, Las PiÂ¤as, 92020, PHL
+774, Antipolo, 92020, PHL
+775, Taguig, 92020, PHL
+776, Cagayan de Oro, 92020, PHL
+777, ParaÂ¤aque, 92020, PHL
+778, Makati, 92020, PHL
+779, Bacolod, 92020, PHL
+780, General Santos, 92020, PHL
+781, Marikina, 92020, PHL
+782, DasmariÂ¤as, 92020, PHL
+783, Muntinlupa, 92020, PHL
+784, Iloilo, 92020, PHL
+785, Pasay, 92020, PHL
+786, Malabon, 92020, PHL
+787, San Josâ€š del Monte, 92020, PHL
+788, Bacoor, 92020, PHL
+789, Iligan, 92020, PHL
+790, Calamba, 92020, PHL
+791, Mandaluyong, 92020, PHL
+792, Butuan, 92020, PHL
+793, Angeles, 92020, PHL
+794, Tarlac, 92020, PHL
+795, Mandaue, 92020, PHL
+796, Baguio, 92020, PHL
+797, Batangas, 92020, PHL
+798, Cainta, 92020, PHL
+799, San Pedro, 92020, PHL
+800, Navotas, 92020, PHL
+801, Cabanatuan, 92020, PHL
+802, San Fernando, 92020, PHL
+803, Lipa, 92020, PHL
+804, Lapu-Lapu, 92020, PHL
+805, San Pablo, 92020, PHL
+806, BiÂ¤an, 92020, PHL
+807, Taytay, 92020, PHL
+808, Lucena, 92020, PHL
+809, Imus, 92020, PHL
+810, Olongapo, 92020, PHL
+811, Binangonan, 92020, PHL
+812, Santa Rosa, 92020, PHL
+813, Tagum, 92020, PHL
+814, Tacloban, 92020, PHL
+815, Malolos, 92020, PHL
+816, Mabalacat, 92020, PHL
+817, Cotabato, 92020, PHL
+818, Meycauayan, 92020, PHL
+819, Puerto Princesa, 92020, PHL
+820, Legazpi, 92020, PHL
+821, Silang, 92020, PHL
+822, Ormoc, 92020, PHL
+823, San Carlos, 92020, PHL
+824, Kabankalan, 92020, PHL
+825, Talisay, 92020, PHL
+826, Valencia, 92020, PHL
+827, Calbayog, 92020, PHL
+828, Santa Maria, 92020, PHL
+829, Pagadian, 92020, PHL
+830, Cadiz, 92020, PHL
+831, Bago, 92020, PHL
+832, Toledo, 92020, PHL
+833, Naga, 92020, PHL
+834, San Mateo, 92020, PHL
+835, Panabo, 92020, PHL
+836, Koronadal, 92020, PHL
+837, Marawi, 92020, PHL
+838, Dagupan, 92020, PHL
+839, Sagay, 92020, PHL
+840, Roxas, 92020, PHL
+841, Lubao, 92020, PHL
+842, Digos, 92020, PHL
+843, San Miguel, 92020, PHL
+844, Malaybalay, 92020, PHL
+845, Tuguegarao, 92020, PHL
+846, Ilagan, 92020, PHL
+847, Baliuag, 92020, PHL
+848, Surigao, 92020, PHL
+849, San Carlos, 92020, PHL
+850, San Juan del Monte, 92020, PHL
+851, Tanauan, 92020, PHL
+852, Concepcion, 92020, PHL
+853, Rodriguez (Montalban), 92020, PHL
+854, Sariaya, 92020, PHL
+855, Malasiqui, 92020, PHL
+856, General Mariano Alvarez, 92020, PHL
+857, Urdaneta, 92020, PHL
+858, Hagonoy, 92020, PHL
+859, San Jose, 92020, PHL
+860, Polomolok, 92020, PHL
+861, Santiago, 92020, PHL
+862, Tanza, 92020, PHL
+863, Ozamis, 92020, PHL
+864, Mexico, 92020, PHL
+865, San Jose, 92020, PHL
+866, Silay, 92020, PHL
+867, General Trias, 92020, PHL
+868, Tabaco, 92020, PHL
+869, Cabuyao, 92020, PHL
+870, Calapan, 92020, PHL
+871, Mati, 92020, PHL
+872, Midsayap, 92020, PHL
+873, Cauayan, 92020, PHL
+874, Gingoog, 92020, PHL
+875, Dumaguete, 92020, PHL
+876, San Fernando, 92020, PHL
+877, Arayat, 92020, PHL
+878, Bayawan (Tulong), 92020, PHL
+879, Kidapawan, 92020, PHL
+880, Daraga (Locsin), 92020, PHL
+881, Marilao, 92020, PHL
+882, Malita, 92020, PHL
+883, Dipolog, 92020, PHL
+884, Cavite, 92020, PHL
+885, Danao, 92020, PHL
+886, Bislig, 92020, PHL
+887, Talavera, 92020, PHL
+888, Guagua, 92020, PHL
+889, Bayambang, 92020, PHL
+890, Nasugbu, 92020, PHL
+891, Baybay, 92020, PHL
+892, Capas, 92020, PHL
+893, Sultan Kudarat, 92020, PHL
+894, Laoag, 92020, PHL
+895, Bayugan, 92020, PHL
+896, Malungon, 92020, PHL
+897, Santa Cruz, 92020, PHL
+898, Sorsogon, 92020, PHL
+899, Candelaria, 92020, PHL
+900, Ligao, 92020, PHL
+901, TÂ¢rshavn, 92020, FRO
+902, Libreville, 92020, GAB
+903, Serekunda, 92020, GMB
+904, Banjul, 92020, GMB
+905, Tbilisi, 92020, GEO
+906, Kutaisi, 92020, GEO
+907, Rustavi, 92020, GEO
+908, Batumi, 92020, GEO
+909, Sohumi, 92020, GEO
+910, Accra, 92020, GHA
+911, Kumasi, 92020, GHA
+912, Tamale, 92020, GHA
+913, Tema, 92020, GHA
+914, Sekondi-Takoradi, 92020, GHA
+915, Gibraltar, 92020, GIB
+916, Saint GeorgeÃ¯s, 92020, GRD
+917, Nuuk, 92020, GRL
+918, Les Abymes, 92020, GLP
+919, Basse-Terre, 92020, GLP
+920, Tamuning, 92020, GUM
+921, AgaÂ¤a, 92020, GUM
+922, Ciudad de Guatemala, 92020, GTM
+923, Mixco, 92020, GTM
+924, Villa Nueva, 92020, GTM
+925, Quetzaltenango, 92020, GTM
+926, Conakry, 92020, GIN
+927, Bissau, 92020, GNB
+928, Georgetown, 92020, GUY
+929, Port-au-Prince, 92020, HTI
+930, Carrefour, 92020, HTI
+931, Delmas, 92020, HTI
+932, Le-Cap-Haâ€¹tien, 92020, HTI
+933, Tegucigalpa, 92020, HND
+934, San Pedro Sula, 92020, HND
+935, La Ceiba, 92020, HND
+936, Kowloon and New Kowloon, 92020, HKG
+937, Victoria, 92020, HKG
+938, Longyearbyen, 92020, SJM
+939, Jakarta, 92020, IDN
+940, Surabaya, 92020, IDN
+941, Bandung, 92020, IDN
+942, Medan, 92020, IDN
+943, Palembang, 92020, IDN
+944, Tangerang, 92020, IDN
+945, Semarang, 92020, IDN
+946, Ujung Pandang, 92020, IDN
+947, Malang, 92020, IDN
+948, Bandar Lampung, 92020, IDN
+949, Bekasi, 92020, IDN
+950, Padang, 92020, IDN
+951, Surakarta, 92020, IDN
+952, Banjarmasin, 92020, IDN
+953, Pekan Baru, 92020, IDN
+954, Denpasar, 92020, IDN
+955, Yogyakarta, 92020, IDN
+956, Pontianak, 92020, IDN
+957, Samarinda, 92020, IDN
+958, Jambi, 92020, IDN
+959, Depok, 92020, IDN
+960, Cimahi, 92020, IDN
+961, Balikpapan, 92020, IDN
+962, Manado, 92020, IDN
+963, Mataram, 92020, IDN
+964, Pekalongan, 92020, IDN
+965, Tegal, 92020, IDN
+966, Bogor, 92020, IDN
+967, Ciputat, 92020, IDN
+968, Pondokgede, 92020, IDN
+969, Cirebon, 92020, IDN
+970, Kediri, 92020, IDN
+971, Ambon, 92020, IDN
+972, Jember, 92020, IDN
+973, Cilacap, 92020, IDN
+974, Cimanggis, 92020, IDN
+975, Pematang Siantar, 92020, IDN
+976, Purwokerto, 92020, IDN
+977, Ciomas, 92020, IDN
+978, Tasikmalaya, 92020, IDN
+979, Madiun, 92020, IDN
+980, Bengkulu, 92020, IDN
+981, Karawang, 92020, IDN
+982, Banda Aceh, 92020, IDN
+983, Palu, 92020, IDN
+984, Pasuruan, 92020, IDN
+985, Kupang, 92020, IDN
+986, Tebing Tinggi, 92020, IDN
+987, Percut Sei Tuan, 92020, IDN
+988, Binjai, 92020, IDN
+989, Sukabumi, 92020, IDN
+990, Waru, 92020, IDN
+991, Pangkal Pinang, 92020, IDN
+992, Magelang, 92020, IDN
+993, Blitar, 92020, IDN
+994, Serang, 92020, IDN
+995, Probolinggo, 92020, IDN
+996, Cilegon, 92020, IDN
+997, Cianjur, 92020, IDN
+998, Ciparay, 92020, IDN
+999, Lhokseumawe, 92020, IDN
+1000, Taman, 92020, IDN
+1001, Depok, 92020, IDN
+1002, Citeureup, 92020, IDN
+1003, Pemalang, 92020, IDN
+1004, Klaten, 92020, IDN
+1005, Salatiga, 92020, IDN
+1006, Cibinong, 92020, IDN
+1007, Palangka Raya, 92020, IDN
+1008, Mojokerto, 92020, IDN
+1009, Purwakarta, 92020, IDN
+1010, Garut, 92020, IDN
+1011, Kudus, 92020, IDN
+1012, Kendari, 92020, IDN
+1013, Jaya Pura, 92020, IDN
+1014, Gorontalo, 92020, IDN
+1015, Majalaya, 92020, IDN
+1016, Pondok Aren, 92020, IDN
+1017, Jombang, 92020, IDN
+1018, Sunggal, 92020, IDN
+1019, Batam, 92020, IDN
+1020, Padang Sidempuan, 92020, IDN
+1021, Sawangan, 92020, IDN
+1022, Banyuwangi, 92020, IDN
+1023, Tanjung Pinang, 92020, IDN
+1024, Mumbai (Bombay), 92020, IND
+1025, Delhi, 92020, IND
+1026, Calcutta [Kolkata], 92020, IND
+1027, Chennai (Madras), 92020, IND
+1028, Hyderabad, 92020, IND
+1029, Ahmedabad, 92020, IND
+1030, Bangalore, 92020, IND
+1031, Kanpur, 92020, IND
+1032, Nagpur, 92020, IND
+1033, Lucknow, 92020, IND
+1034, Pune, 92020, IND
+1035, Surat, 92020, IND
+1036, Jaipur, 92020, IND
+1037, Indore, 92020, IND
+1038, Bhopal, 92020, IND
+1039, Ludhiana, 92020, IND
+1040, Vadodara (Baroda), 92020, IND
+1041, Kalyan, 92020, IND
+1042, Madurai, 92020, IND
+1043, Haora (Howrah), 92020, IND
+1044, Varanasi (Benares), 92020, IND
+1045, Patna, 92020, IND
+1046, Srinagar, 92020, IND
+1047, Agra, 92020, IND
+1048, Coimbatore, 92020, IND
+1049, Thane (Thana), 92020, IND
+1050, Allahabad, 92020, IND
+1051, Meerut, 92020, IND
+1052, Vishakhapatnam, 92020, IND
+1053, Jabalpur, 92020, IND
+1054, Amritsar, 92020, IND
+1055, Faridabad, 92020, IND
+1056, Vijayawada, 92020, IND
+1057, Gwalior, 92020, IND
+1058, Jodhpur, 92020, IND
+1059, Nashik (Nasik), 92020, IND
+1060, Hubli-Dharwad, 92020, IND
+1061, Solapur (Sholapur), 92020, IND
+1062, Ranchi, 92020, IND
+1063, Bareilly, 92020, IND
+1064, Guwahati (Gauhati), 92020, IND
+1065, Shambajinagar (Aurangabad), 92020, IND
+1066, Cochin (Kochi), 92020, IND
+1067, Rajkot, 92020, IND
+1068, Kota, 92020, IND
+1069, Thiruvananthapuram (Trivandrum, 92020, IND
+1070, Pimpri-Chinchwad, 92020, IND
+1071, Jalandhar (Jullundur), 92020, IND
+1072, Gorakhpur, 92020, IND
+1073, Chandigarh, 92020, IND
+1074, Mysore, 92020, IND
+1075, Aligarh, 92020, IND
+1076, Guntur, 92020, IND
+1077, Jamshedpur, 92020, IND
+1078, Ghaziabad, 92020, IND
+1079, Warangal, 92020, IND
+1080, Raipur, 92020, IND
+1081, Moradabad, 92020, IND
+1082, Durgapur, 92020, IND
+1083, Amravati, 92020, IND
+1084, Calicut (Kozhikode), 92020, IND
+1085, Bikaner, 92020, IND
+1086, Bhubaneswar, 92020, IND
+1087, Kolhapur, 92020, IND
+1088, Kataka (Cuttack), 92020, IND
+1089, Ajmer, 92020, IND
+1090, Bhavnagar, 92020, IND
+1091, Tiruchirapalli, 92020, IND
+1092, Bhilai, 92020, IND
+1093, Bhiwandi, 92020, IND
+1094, Saharanpur, 92020, IND
+1095, Ulhasnagar, 92020, IND
+1096, Salem, 92020, IND
+1097, Ujjain, 92020, IND
+1098, Malegaon, 92020, IND
+1099, Jamnagar, 92020, IND
+1100, Bokaro Steel City, 92020, IND
+1101, Akola, 92020, IND
+1102, Belgaum, 92020, IND
+1103, Rajahmundry, 92020, IND
+1104, Nellore, 92020, IND
+1105, Udaipur, 92020, IND
+1106, New Bombay, 92020, IND
+1107, Bhatpara, 92020, IND
+1108, Gulbarga, 92020, IND
+1109, New Delhi, 92020, IND
+1110, Jhansi, 92020, IND
+1111, Gaya, 92020, IND
+1112, Kakinada, 92020, IND
+1113, Dhule (Dhulia), 92020, IND
+1114, Panihati, 92020, IND
+1115, Nanded (Nander), 92020, IND
+1116, Mangalore, 92020, IND
+1117, Dehra Dun, 92020, IND
+1118, Kamarhati, 92020, IND
+1119, Davangere, 92020, IND
+1120, Asansol, 92020, IND
+1121, Bhagalpur, 92020, IND
+1122, Bellary, 92020, IND
+1123, Barddhaman (Burdwan), 92020, IND
+1124, Rampur, 92020, IND
+1125, Jalgaon, 92020, IND
+1126, Muzaffarpur, 92020, IND
+1127, Nizamabad, 92020, IND
+1128, Muzaffarnagar, 92020, IND
+1129, Patiala, 92020, IND
+1130, Shahjahanpur, 92020, IND
+1131, Kurnool, 92020, IND
+1132, Tiruppur (Tirupper), 92020, IND
+1133, Rohtak, 92020, IND
+1134, South Dum Dum, 92020, IND
+1135, Mathura, 92020, IND
+1136, Chandrapur, 92020, IND
+1137, Barahanagar (Baranagar), 92020, IND
+1138, Darbhanga, 92020, IND
+1139, Siliguri (Shiliguri), 92020, IND
+1140, Raurkela, 92020, IND
+1141, Ambattur, 92020, IND
+1142, Panipat, 92020, IND
+1143, Firozabad, 92020, IND
+1144, Ichalkaranji, 92020, IND
+1145, Jammu, 92020, IND
+1146, Ramagundam, 92020, IND
+1147, Eluru, 92020, IND
+1148, Brahmapur, 92020, IND
+1149, Alwar, 92020, IND
+1150, Pondicherry, 92020, IND
+1151, Thanjavur, 92020, IND
+1152, Bihar Sharif, 92020, IND
+1153, Tuticorin, 92020, IND
+1154, Imphal, 92020, IND
+1155, Latur, 92020, IND
+1156, Sagar, 92020, IND
+1157, Farrukhabad-cum-Fatehgarh, 92020, IND
+1158, Sangli, 92020, IND
+1159, Parbhani, 92020, IND
+1160, Nagar Coil, 92020, IND
+1161, Bijapur, 92020, IND
+1162, Kukatpalle, 92020, IND
+1163, Bally, 92020, IND
+1164, Bhilwara, 92020, IND
+1165, Ratlam, 92020, IND
+1166, Avadi, 92020, IND
+1167, Dindigul, 92020, IND
+1168, Ahmadnagar, 92020, IND
+1169, Bilaspur, 92020, IND
+1170, Shimoga, 92020, IND
+1171, Kharagpur, 92020, IND
+1172, Mira Bhayandar, 92020, IND
+1173, Vellore, 92020, IND
+1174, Jalna, 92020, IND
+1175, Burnpur, 92020, IND
+1176, Anantapur, 92020, IND
+1177, Allappuzha (Alleppey), 92020, IND
+1178, Tirupati, 92020, IND
+1179, Karnal, 92020, IND
+1180, Burhanpur, 92020, IND
+1181, Hisar (Hissar), 92020, IND
+1182, Tiruvottiyur, 92020, IND
+1183, Mirzapur-cum-Vindhyachal, 92020, IND
+1184, Secunderabad, 92020, IND
+1185, Nadiad, 92020, IND
+1186, Dewas, 92020, IND
+1187, Murwara (Katni), 92020, IND
+1188, Ganganagar, 92020, IND
+1189, Vizianagaram, 92020, IND
+1190, Erode, 92020, IND
+1191, Machilipatnam (Masulipatam), 92020, IND
+1192, Bhatinda (Bathinda), 92020, IND
+1193, Raichur, 92020, IND
+1194, Agartala, 92020, IND
+1195, Arrah (Ara), 92020, IND
+1196, Satna, 92020, IND
+1197, Lalbahadur Nagar, 92020, IND
+1198, Aizawl, 92020, IND
+1199, Uluberia, 92020, IND
+1200, Katihar, 92020, IND
+1201, Cuddalore, 92020, IND
+1202, Hugli-Chinsurah, 92020, IND
+1203, Dhanbad, 92020, IND
+1204, Raiganj, 92020, IND
+1205, Sambhal, 92020, IND
+1206, Durg, 92020, IND
+1207, Munger (Monghyr), 92020, IND
+1208, Kanchipuram, 92020, IND
+1209, North Dum Dum, 92020, IND
+1210, Karimnagar, 92020, IND
+1211, Bharatpur, 92020, IND
+1212, Sikar, 92020, IND
+1213, Hardwar (Haridwar), 92020, IND
+1214, Dabgram, 92020, IND
+1215, Morena, 92020, IND
+1216, Noida, 92020, IND
+1217, Hapur, 92020, IND
+1218, Bhusawal, 92020, IND
+1219, Khandwa, 92020, IND
+1220, Yamuna Nagar, 92020, IND
+1221, Sonipat (Sonepat), 92020, IND
+1222, Tenali, 92020, IND
+1223, Raurkela Civil Township, 92020, IND
+1224, Kollam (Quilon), 92020, IND
+1225, Kumbakonam, 92020, IND
+1226, Ingraj Bazar (English Bazar), 92020, IND
+1227, Timkur, 92020, IND
+1228, Amroha, 92020, IND
+1229, Serampore, 92020, IND
+1230, Chapra, 92020, IND
+1231, Pali, 92020, IND
+1232, Maunath Bhanjan, 92020, IND
+1233, Adoni, 92020, IND
+1234, Jaunpur, 92020, IND
+1235, Tirunelveli, 92020, IND
+1236, Bahraich, 92020, IND
+1237, Gadag Betigeri, 92020, IND
+1238, Proddatur, 92020, IND
+1239, Chittoor, 92020, IND
+1240, Barrackpur, 92020, IND
+1241, Bharuch (Broach), 92020, IND
+1242, Naihati, 92020, IND
+1243, Shillong, 92020, IND
+1244, Sambalpur, 92020, IND
+1245, Junagadh, 92020, IND
+1246, Rae Bareli, 92020, IND
+1247, Rewa, 92020, IND
+1248, Gurgaon, 92020, IND
+1249, Khammam, 92020, IND
+1250, Bulandshahr, 92020, IND
+1251, Navsari, 92020, IND
+1252, Malkajgiri, 92020, IND
+1253, Midnapore (Medinipur), 92020, IND
+1254, Miraj, 92020, IND
+1255, Raj Nandgaon, 92020, IND
+1256, Alandur, 92020, IND
+1257, Puri, 92020, IND
+1258, Navadwip, 92020, IND
+1259, Sirsa, 92020, IND
+1260, Korba, 92020, IND
+1261, Faizabad, 92020, IND
+1262, Etawah, 92020, IND
+1263, Pathankot, 92020, IND
+1264, Gandhinagar, 92020, IND
+1265, Palghat (Palakkad), 92020, IND
+1266, Veraval, 92020, IND
+1267, Hoshiarpur, 92020, IND
+1268, Ambala, 92020, IND
+1269, Sitapur, 92020, IND
+1270, Bhiwani, 92020, IND
+1271, Cuddapah, 92020, IND
+1272, Bhimavaram, 92020, IND
+1273, Krishnanagar, 92020, IND
+1274, Chandannagar, 92020, IND
+1275, Mandya, 92020, IND
+1276, Dibrugarh, 92020, IND
+1277, Nandyal, 92020, IND
+1278, Balurghat, 92020, IND
+1279, Neyveli, 92020, IND
+1280, Fatehpur, 92020, IND
+1281, Mahbubnagar, 92020, IND
+1282, Budaun, 92020, IND
+1283, Porbandar, 92020, IND
+1284, Silchar, 92020, IND
+1285, Berhampore (Baharampur), 92020, IND
+1286, Purnea (Purnia), 92020, IND
+1287, Bankura, 92020, IND
+1288, Rajapalaiyam, 92020, IND
+1289, Titagarh, 92020, IND
+1290, Halisahar, 92020, IND
+1291, Hathras, 92020, IND
+1292, Bhir (Bid), 92020, IND
+1293, Pallavaram, 92020, IND
+1294, Anand, 92020, IND
+1295, Mango, 92020, IND
+1296, Santipur, 92020, IND
+1297, Bhind, 92020, IND
+1298, Gondiya, 92020, IND
+1299, Tiruvannamalai, 92020, IND
+1300, Yeotmal (Yavatmal), 92020, IND
+1301, Kulti-Barakar, 92020, IND
+1302, Moga, 92020, IND
+1303, Shivapuri, 92020, IND
+1304, Bidar, 92020, IND
+1305, Guntakal, 92020, IND
+1306, Unnao, 92020, IND
+1307, Barasat, 92020, IND
+1308, Tambaram, 92020, IND
+1309, Abohar, 92020, IND
+1310, Pilibhit, 92020, IND
+1311, Valparai, 92020, IND
+1312, Gonda, 92020, IND
+1313, Surendranagar, 92020, IND
+1314, Qutubullapur, 92020, IND
+1315, Beawar, 92020, IND
+1316, Hindupur, 92020, IND
+1317, Gandhidham, 92020, IND
+1318, Haldwani-cum-Kathgodam, 92020, IND
+1319, Tellicherry (Thalassery), 92020, IND
+1320, Wardha, 92020, IND
+1321, Rishra, 92020, IND
+1322, Bhuj, 92020, IND
+1323, Modinagar, 92020, IND
+1324, Gudivada, 92020, IND
+1325, Basirhat, 92020, IND
+1326, Uttarpara-Kotrung, 92020, IND
+1327, Ongole, 92020, IND
+1328, North Barrackpur, 92020, IND
+1329, Guna, 92020, IND
+1330, Haldia, 92020, IND
+1331, Habra, 92020, IND
+1332, Kanchrapara, 92020, IND
+1333, Tonk, 92020, IND
+1334, Champdani, 92020, IND
+1335, Orai, 92020, IND
+1336, Pudukkottai, 92020, IND
+1337, Sasaram, 92020, IND
+1338, Hazaribag, 92020, IND
+1339, Palayankottai, 92020, IND
+1340, Banda, 92020, IND
+1341, Godhra, 92020, IND
+1342, Hospet, 92020, IND
+1343, Ashoknagar-Kalyangarh, 92020, IND
+1344, Achalpur, 92020, IND
+1345, Patan, 92020, IND
+1346, Mandasor, 92020, IND
+1347, Damoh, 92020, IND
+1348, Satara, 92020, IND
+1349, Meerut Cantonment, 92020, IND
+1350, Dehri, 92020, IND
+1351, Delhi Cantonment, 92020, IND
+1352, Chhindwara, 92020, IND
+1353, Bansberia, 92020, IND
+1354, Nagaon, 92020, IND
+1355, Kanpur Cantonment, 92020, IND
+1356, Vidisha, 92020, IND
+1357, Bettiah, 92020, IND
+1358, Purulia, 92020, IND
+1359, Hassan, 92020, IND
+1360, Ambala Sadar, 92020, IND
+1361, Baidyabati, 92020, IND
+1362, Morvi, 92020, IND
+1363, Raigarh, 92020, IND
+1364, Vejalpur, 92020, IND
+1365, Baghdad, 92020, IRQ
+1366, Mosul, 92020, IRQ
+1367, Irbil, 92020, IRQ
+1368, Kirkuk, 92020, IRQ
+1369, Basra, 92020, IRQ
+1370, al-Sulaymaniya, 92020, IRQ
+1371, al-Najaf, 92020, IRQ
+1372, Karbala, 92020, IRQ
+1373, al-Hilla, 92020, IRQ
+1374, al-Nasiriya, 92020, IRQ
+1375, al-Amara, 92020, IRQ
+1376, al-Diwaniya, 92020, IRQ
+1377, al-Ramadi, 92020, IRQ
+1378, al-Kut, 92020, IRQ
+1379, Baquba, 92020, IRQ
+1380, Teheran, 92020, IRN
+1381, Mashhad, 92020, IRN
+1382, Esfahan, 92020, IRN
+1383, Tabriz, 92020, IRN
+1384, Shiraz, 92020, IRN
+1385, Karaj, 92020, IRN
+1386, Ahvaz, 92020, IRN
+1387, Qom, 92020, IRN
+1388, Kermanshah, 92020, IRN
+1389, Urmia, 92020, IRN
+1390, Zahedan, 92020, IRN
+1391, Rasht, 92020, IRN
+1392, Hamadan, 92020, IRN
+1393, Kerman, 92020, IRN
+1394, Arak, 92020, IRN
+1395, Ardebil, 92020, IRN
+1396, Yazd, 92020, IRN
+1397, Qazvin, 92020, IRN
+1398, Zanjan, 92020, IRN
+1399, Sanandaj, 92020, IRN
+1400, Bandar-e-Abbas, 92020, IRN
+1401, Khorramabad, 92020, IRN
+1402, Eslamshahr, 92020, IRN
+1403, Borujerd, 92020, IRN
+1404, Abadan, 92020, IRN
+1405, Dezful, 92020, IRN
+1406, Kashan, 92020, IRN
+1407, Sari, 92020, IRN
+1408, Gorgan, 92020, IRN
+1409, Najafabad, 92020, IRN
+1410, Sabzevar, 92020, IRN
+1411, Khomeynishahr, 92020, IRN
+1412, Amol, 92020, IRN
+1413, Neyshabur, 92020, IRN
+1414, Babol, 92020, IRN
+1415, Khoy, 92020, IRN
+1416, Malayer, 92020, IRN
+1417, Bushehr, 92020, IRN
+1418, Qaemshahr, 92020, IRN
+1419, Qarchak, 92020, IRN
+1420, Qods, 92020, IRN
+1421, Sirjan, 92020, IRN
+1422, Bojnurd, 92020, IRN
+1423, Maragheh, 92020, IRN
+1424, Birjand, 92020, IRN
+1425, Ilam, 92020, IRN
+1426, Bukan, 92020, IRN
+1427, Masjed-e-Soleyman, 92020, IRN
+1428, Saqqez, 92020, IRN
+1429, Gonbad-e Qabus, 92020, IRN
+1430, Saveh, 92020, IRN
+1431, Mahabad, 92020, IRN
+1432, Varamin, 92020, IRN
+1433, Andimeshk, 92020, IRN
+1434, Khorramshahr, 92020, IRN
+1435, Shahrud, 92020, IRN
+1436, Marv Dasht, 92020, IRN
+1437, Zabol, 92020, IRN
+1438, Shahr-e Kord, 92020, IRN
+1439, Bandar-e Anzali, 92020, IRN
+1440, Rafsanjan, 92020, IRN
+1441, Marand, 92020, IRN
+1442, Torbat-e Heydariyeh, 92020, IRN
+1443, Jahrom, 92020, IRN
+1444, Semnan, 92020, IRN
+1445, Miandoab, 92020, IRN
+1446, Qomsheh, 92020, IRN
+1447, Dublin, 92020, IRL
+1448, Cork, 92020, IRL
+1449, ReykjavÂ¡k, 92020, ISL
+1450, Jerusalem, 92020, ISR
+1451, Tel Aviv-Jaffa, 92020, ISR
+1452, Haifa, 92020, ISR
+1453, Rishon Le Ziyyon, 92020, ISR
+1454, Beerseba, 92020, ISR
+1455, Holon, 92020, ISR
+1456, Petah Tiqwa, 92020, ISR
+1457, Ashdod, 92020, ISR
+1458, Netanya, 92020, ISR
+1459, Bat Yam, 92020, ISR
+1460, Bene Beraq, 92020, ISR
+1461, Ramat Gan, 92020, ISR
+1462, Ashqelon, 92020, ISR
+1463, Rehovot, 92020, ISR
+1464, Roma, 92020, ITA
+1465, Milano, 92020, ITA
+1466, Napoli, 92020, ITA
+1467, Torino, 92020, ITA
+1468, Palermo, 92020, ITA
+1469, Genova, 92020, ITA
+1470, Bologna, 92020, ITA
+1471, Firenze, 92020, ITA
+1472, Catania, 92020, ITA
+1473, Bari, 92020, ITA
+1474, Venezia, 92020, ITA
+1475, Messina, 92020, ITA
+1476, Verona, 92020, ITA
+1477, Trieste, 92020, ITA
+1478, Padova, 92020, ITA
+1479, Taranto, 92020, ITA
+1480, Brescia, 92020, ITA
+1481, Reggio di Calabria, 92020, ITA
+1482, Modena, 92020, ITA
+1483, Prato, 92020, ITA
+1484, Parma, 92020, ITA
+1485, Cagliari, 92020, ITA
+1486, Livorno, 92020, ITA
+1487, Perugia, 92020, ITA
+1488, Foggia, 92020, ITA
+1489, Reggio nellÃ¯ Emilia, 92020, ITA
+1490, Salerno, 92020, ITA
+1491, Ravenna, 92020, ITA
+1492, Ferrara, 92020, ITA
+1493, Rimini, 92020, ITA
+1494, Syrakusa, 92020, ITA
+1495, Sassari, 92020, ITA
+1496, Monza, 92020, ITA
+1497, Bergamo, 92020, ITA
+1498, Pescara, 92020, ITA
+1499, Latina, 92020, ITA
+1500, Vicenza, 92020, ITA
+1501, Terni, 92020, ITA
+1502, ForlÂ�, 92020, ITA
+1503, Trento, 92020, ITA
+1504, Novara, 92020, ITA
+1505, Piacenza, 92020, ITA
+1506, Ancona, 92020, ITA
+1507, Lecce, 92020, ITA
+1508, Bolzano, 92020, ITA
+1509, Catanzaro, 92020, ITA
+1510, La Spezia, 92020, ITA
+1511, Udine, 92020, ITA
+1512, Torre del Greco, 92020, ITA
+1513, Andria, 92020, ITA
+1514, Brindisi, 92020, ITA
+1515, Giugliano in Campania, 92020, ITA
+1516, Pisa, 92020, ITA
+1517, Barletta, 92020, ITA
+1518, Arezzo, 92020, ITA
+1519, Alessandria, 92020, ITA
+1520, Cesena, 92020, ITA
+1521, Pesaro, 92020, ITA
+1522, Dili, 92020, TMP
+1523, Wien, 92020, AUT
+1524, Graz, 92020, AUT
+1525, Linz, 92020, AUT
+1526, Salzburg, 92020, AUT
+1527, Innsbruck, 92020, AUT
+1528, Klagenfurt, 92020, AUT
+1529, Spanish Town, 92020, JAM
+1530, Kingston, 92020, JAM
+1531, Portmore, 92020, JAM
+1532, Tokyo, 92020, JPN
+1533, Jokohama [Yokohama], 92020, JPN
+1534, Osaka, 92020, JPN
+1535, Nagoya, 92020, JPN
+1536, Sapporo, 92020, JPN
+1537, Kioto, 92020, JPN
+1538, Kobe, 92020, JPN
+1539, Fukuoka, 92020, JPN
+1540, Kawasaki, 92020, JPN
+1541, Hiroshima, 92020, JPN
+1542, Kitakyushu, 92020, JPN
+1543, Sendai, 92020, JPN
+1544, Chiba, 92020, JPN
+1545, Sakai, 92020, JPN
+1546, Kumamoto, 92020, JPN
+1547, Okayama, 92020, JPN
+1548, Sagamihara, 92020, JPN
+1549, Hamamatsu, 92020, JPN
+1550, Kagoshima, 92020, JPN
+1551, Funabashi, 92020, JPN
+1552, Higashiosaka, 92020, JPN
+1553, Hachioji, 92020, JPN
+1554, Niigata, 92020, JPN
+1555, Amagasaki, 92020, JPN
+1556, Himeji, 92020, JPN
+1557, Shizuoka, 92020, JPN
+1558, Urawa, 92020, JPN
+1559, Matsuyama, 92020, JPN
+1560, Matsudo, 92020, JPN
+1561, Kanazawa, 92020, JPN
+1562, Kawaguchi, 92020, JPN
+1563, Ichikawa, 92020, JPN
+1564, Omiya, 92020, JPN
+1565, Utsunomiya, 92020, JPN
+1566, Oita, 92020, JPN
+1567, Nagasaki, 92020, JPN
+1568, Yokosuka, 92020, JPN
+1569, Kurashiki, 92020, JPN
+1570, Gifu, 92020, JPN
+1571, Hirakata, 92020, JPN
+1572, Nishinomiya, 92020, JPN
+1573, Toyonaka, 92020, JPN
+1574, Wakayama, 92020, JPN
+1575, Fukuyama, 92020, JPN
+1576, Fujisawa, 92020, JPN
+1577, Asahikawa, 92020, JPN
+1578, Machida, 92020, JPN
+1579, Nara, 92020, JPN
+1580, Takatsuki, 92020, JPN
+1581, Iwaki, 92020, JPN
+1582, Nagano, 92020, JPN
+1583, Toyohashi, 92020, JPN
+1584, Toyota, 92020, JPN
+1585, Suita, 92020, JPN
+1586, Takamatsu, 92020, JPN
+1587, Koriyama, 92020, JPN
+1588, Okazaki, 92020, JPN
+1589, Kawagoe, 92020, JPN
+1590, Tokorozawa, 92020, JPN
+1591, Toyama, 92020, JPN
+1592, Kochi, 92020, JPN
+1593, Kashiwa, 92020, JPN
+1594, Akita, 92020, JPN
+1595, Miyazaki, 92020, JPN
+1596, Koshigaya, 92020, JPN
+1597, Naha, 92020, JPN
+1598, Aomori, 92020, JPN
+1599, Hakodate, 92020, JPN
+1600, Akashi, 92020, JPN
+1601, Yokkaichi, 92020, JPN
+1602, Fukushima, 92020, JPN
+1603, Morioka, 92020, JPN
+1604, Maebashi, 92020, JPN
+1605, Kasugai, 92020, JPN
+1606, Otsu, 92020, JPN
+1607, Ichihara, 92020, JPN
+1608, Yao, 92020, JPN
+1609, Ichinomiya, 92020, JPN
+1610, Tokushima, 92020, JPN
+1611, Kakogawa, 92020, JPN
+1612, Ibaraki, 92020, JPN
+1613, Neyagawa, 92020, JPN
+1614, Shimonoseki, 92020, JPN
+1615, Yamagata, 92020, JPN
+1616, Fukui, 92020, JPN
+1617, Hiratsuka, 92020, JPN
+1618, Mito, 92020, JPN
+1619, Sasebo, 92020, JPN
+1620, Hachinohe, 92020, JPN
+1621, Takasaki, 92020, JPN
+1622, Shimizu, 92020, JPN
+1623, Kurume, 92020, JPN
+1624, Fuji, 92020, JPN
+1625, Soka, 92020, JPN
+1626, Fuchu, 92020, JPN
+1627, Chigasaki, 92020, JPN
+1628, Atsugi, 92020, JPN
+1629, Numazu, 92020, JPN
+1630, Ageo, 92020, JPN
+1631, Yamato, 92020, JPN
+1632, Matsumoto, 92020, JPN
+1633, Kure, 92020, JPN
+1634, Takarazuka, 92020, JPN
+1635, Kasukabe, 92020, JPN
+1636, Chofu, 92020, JPN
+1637, Odawara, 92020, JPN
+1638, Kofu, 92020, JPN
+1639, Kushiro, 92020, JPN
+1640, Kishiwada, 92020, JPN
+1641, Hitachi, 92020, JPN
+1642, Nagaoka, 92020, JPN
+1643, Itami, 92020, JPN
+1644, Uji, 92020, JPN
+1645, Suzuka, 92020, JPN
+1646, Hirosaki, 92020, JPN
+1647, Ube, 92020, JPN
+1648, Kodaira, 92020, JPN
+1649, Takaoka, 92020, JPN
+1650, Obihiro, 92020, JPN
+1651, Tomakomai, 92020, JPN
+1652, Saga, 92020, JPN
+1653, Sakura, 92020, JPN
+1654, Kamakura, 92020, JPN
+1655, Mitaka, 92020, JPN
+1656, Izumi, 92020, JPN
+1657, Hino, 92020, JPN
+1658, Hadano, 92020, JPN
+1659, Ashikaga, 92020, JPN
+1660, Tsu, 92020, JPN
+1661, Sayama, 92020, JPN
+1662, Yachiyo, 92020, JPN
+1663, Tsukuba, 92020, JPN
+1664, Tachikawa, 92020, JPN
+1665, Kumagaya, 92020, JPN
+1666, Moriguchi, 92020, JPN
+1667, Otaru, 92020, JPN
+1668, Anjo, 92020, JPN
+1669, Narashino, 92020, JPN
+1670, Oyama, 92020, JPN
+1671, Ogaki, 92020, JPN
+1672, Matsue, 92020, JPN
+1673, Kawanishi, 92020, JPN
+1674, Hitachinaka, 92020, JPN
+1675, Niiza, 92020, JPN
+1676, Nagareyama, 92020, JPN
+1677, Tottori, 92020, JPN
+1678, Tama, 92020, JPN
+1679, Iruma, 92020, JPN
+1680, Ota, 92020, JPN
+1681, Omuta, 92020, JPN
+1682, Komaki, 92020, JPN
+1683, Ome, 92020, JPN
+1684, Kadoma, 92020, JPN
+1685, Yamaguchi, 92020, JPN
+1686, Higashimurayama, 92020, JPN
+1687, Yonago, 92020, JPN
+1688, Matsubara, 92020, JPN
+1689, Musashino, 92020, JPN
+1690, Tsuchiura, 92020, JPN
+1691, Joetsu, 92020, JPN
+1692, Miyakonojo, 92020, JPN
+1693, Misato, 92020, JPN
+1694, Kakamigahara, 92020, JPN
+1695, Daito, 92020, JPN
+1696, Seto, 92020, JPN
+1697, Kariya, 92020, JPN
+1698, Urayasu, 92020, JPN
+1699, Beppu, 92020, JPN
+1700, Niihama, 92020, JPN
+1701, Minoo, 92020, JPN
+1702, Fujieda, 92020, JPN
+1703, Abiko, 92020, JPN
+1704, Nobeoka, 92020, JPN
+1705, Tondabayashi, 92020, JPN
+1706, Ueda, 92020, JPN
+1707, Kashihara, 92020, JPN
+1708, Matsusaka, 92020, JPN
+1709, Isesaki, 92020, JPN
+1710, Zama, 92020, JPN
+1711, Kisarazu, 92020, JPN
+1712, Noda, 92020, JPN
+1713, Ishinomaki, 92020, JPN
+1714, Fujinomiya, 92020, JPN
+1715, Kawachinagano, 92020, JPN
+1716, Imabari, 92020, JPN
+1717, Aizuwakamatsu, 92020, JPN
+1718, Higashihiroshima, 92020, JPN
+1719, Habikino, 92020, JPN
+1720, Ebetsu, 92020, JPN
+1721, Hofu, 92020, JPN
+1722, Kiryu, 92020, JPN
+1723, Okinawa, 92020, JPN
+1724, Yaizu, 92020, JPN
+1725, Toyokawa, 92020, JPN
+1726, Ebina, 92020, JPN
+1727, Asaka, 92020, JPN
+1728, Higashikurume, 92020, JPN
+1729, Ikoma, 92020, JPN
+1730, Kitami, 92020, JPN
+1731, Koganei, 92020, JPN
+1732, Iwatsuki, 92020, JPN
+1733, Mishima, 92020, JPN
+1734, Handa, 92020, JPN
+1735, Muroran, 92020, JPN
+1736, Komatsu, 92020, JPN
+1737, Yatsushiro, 92020, JPN
+1738, Iida, 92020, JPN
+1739, Tokuyama, 92020, JPN
+1740, Kokubunji, 92020, JPN
+1741, Akishima, 92020, JPN
+1742, Iwakuni, 92020, JPN
+1743, Kusatsu, 92020, JPN
+1744, Kuwana, 92020, JPN
+1745, Sanda, 92020, JPN
+1746, Hikone, 92020, JPN
+1747, Toda, 92020, JPN
+1748, Tajimi, 92020, JPN
+1749, Ikeda, 92020, JPN
+1750, Fukaya, 92020, JPN
+1751, Ise, 92020, JPN
+1752, Sakata, 92020, JPN
+1753, Kasuga, 92020, JPN
+1754, Kamagaya, 92020, JPN
+1755, Tsuruoka, 92020, JPN
+1756, Hoya, 92020, JPN
+1757, Nishio, 92020, JPN
+1758, Tokai, 92020, JPN
+1759, Inazawa, 92020, JPN
+1760, Sakado, 92020, JPN
+1761, Isehara, 92020, JPN
+1762, Takasago, 92020, JPN
+1763, Fujimi, 92020, JPN
+1764, Urasoe, 92020, JPN
+1765, Yonezawa, 92020, JPN
+1766, Konan, 92020, JPN
+1767, Yamatokoriyama, 92020, JPN
+1768, Maizuru, 92020, JPN
+1769, Onomichi, 92020, JPN
+1770, Higashimatsuyama, 92020, JPN
+1771, Kimitsu, 92020, JPN
+1772, Isahaya, 92020, JPN
+1773, Kanuma, 92020, JPN
+1774, Izumisano, 92020, JPN
+1775, Kameoka, 92020, JPN
+1776, Mobara, 92020, JPN
+1777, Narita, 92020, JPN
+1778, Kashiwazaki, 92020, JPN
+1779, Tsuyama, 92020, JPN
+1780, Sanaa, 92020, YEM
+1781, Aden, 92020, YEM
+1782, Taizz, 92020, YEM
+1783, Hodeida, 92020, YEM
+1784, al-Mukalla, 92020, YEM
+1785, Ibb, 92020, YEM
+1786, Amman, 92020, JOR
+1787, al-Zarqa, 92020, JOR
+1788, Irbid, 92020, JOR
+1789, al-Rusayfa, 92020, JOR
+1790, Wadi al-Sir, 92020, JOR
+1791, Flying Fish Cove, 92020, CXR
+1792, Beograd, 92020, YUG
+1793, Novi Sad, 92020, YUG
+1794, Ni?, 92020, YUG
+1795, Pri?tina, 92020, YUG
+1796, Kragujevac, 92020, YUG
+1797, Podgorica, 92020, YUG
+1798, Subotica, 92020, YUG
+1799, Prizren, 92020, YUG
+1800, Phnom Penh, 92020, KHM
+1801, Battambang, 92020, KHM
+1802, Siem Reap, 92020, KHM
+1803, Douala, 92020, CMR
+1804, Yaoundâ€š, 92020, CMR
+1805, Garoua, 92020, CMR
+1806, Maroua, 92020, CMR
+1807, Bamenda, 92020, CMR
+1808, Bafoussam, 92020, CMR
+1809, Nkongsamba, 92020, CMR
+1810, Montrâ€šal, 92020, CAN
+1811, Calgary, 92020, CAN
+1812, Toronto, 92020, CAN
+1813, North York, 92020, CAN
+1814, Winnipeg, 92020, CAN
+1815, Edmonton, 92020, CAN
+1816, Mississauga, 92020, CAN
+1817, Scarborough, 92020, CAN
+1818, Vancouver, 92020, CAN
+1819, Etobicoke, 92020, CAN
+1820, London, 92020, CAN
+1821, Hamilton, 92020, CAN
+1822, Ottawa, 92020, CAN
+1823, Laval, 92020, CAN
+1824, Surrey, 92020, CAN
+1825, Brampton, 92020, CAN
+1826, Windsor, 92020, CAN
+1827, Saskatoon, 92020, CAN
+1828, Kitchener, 92020, CAN
+1829, Markham, 92020, CAN
+1830, Regina, 92020, CAN
+1831, Burnaby, 92020, CAN
+1832, Quâ€šbec, 92020, CAN
+1833, York, 92020, CAN
+1834, Richmond, 92020, CAN
+1835, Vaughan, 92020, CAN
+1836, Burlington, 92020, CAN
+1837, Oshawa, 92020, CAN
+1838, Oakville, 92020, CAN
+1839, Saint Catharines, 92020, CAN
+1840, Longueuil, 92020, CAN
+1841, Richmond Hill, 92020, CAN
+1842, Thunder Bay, 92020, CAN
+1843, Nepean, 92020, CAN
+1844, Cape Breton, 92020, CAN
+1845, East York, 92020, CAN
+1846, Halifax, 92020, CAN
+1847, Cambridge, 92020, CAN
+1848, Gloucester, 92020, CAN
+1849, Abbotsford, 92020, CAN
+1850, Guelph, 92020, CAN
+1851, Saint JohnÃ¯s, 92020, CAN
+1852, Coquitlam, 92020, CAN
+1853, Saanich, 92020, CAN
+1854, Gatineau, 92020, CAN
+1855, Delta, 92020, CAN
+1856, Sudbury, 92020, CAN
+1857, Kelowna, 92020, CAN
+1858, Barrie, 92020, CAN
+1859, Praia, 92020, CPV
+1860, Almaty, 92020, KAZ
+1861, Qaraghandy, 92020, KAZ
+1862, Shymkent, 92020, KAZ
+1863, Taraz, 92020, KAZ
+1864, Astana, 92020, KAZ
+1865, â„¢skemen, 92020, KAZ
+1866, Pavlodar, 92020, KAZ
+1867, Semey, 92020, KAZ
+1868, Aqtâ€�be, 92020, KAZ
+1869, Qostanay, 92020, KAZ
+1870, Petropavl, 92020, KAZ
+1871, Oral, 92020, KAZ
+1872, Temirtau, 92020, KAZ
+1873, Qyzylorda, 92020, KAZ
+1874, Aqtau, 92020, KAZ
+1875, Atyrau, 92020, KAZ
+1876, Ekibastuz, 92020, KAZ
+1877, Kâ€�kshetau, 92020, KAZ
+1878, Rudnyy, 92020, KAZ
+1879, Taldyqorghan, 92020, KAZ
+1880, Zhezqazghan, 92020, KAZ
+1881, Nairobi, 92020, KEN
+1882, Mombasa, 92020, KEN
+1883, Kisumu, 92020, KEN
+1884, Nakuru, 92020, KEN
+1885, Machakos, 92020, KEN
+1886, Eldoret, 92020, KEN
+1887, Meru, 92020, KEN
+1888, Nyeri, 92020, KEN
+1889, Bangui, 92020, CAF
+1890, Shanghai, 92020, CHN
+1891, Peking, 92020, CHN
+1892, Chongqing, 92020, CHN
+1893, Tianjin, 92020, CHN
+1894, Wuhan, 92020, CHN
+1895, Harbin, 92020, CHN
+1896, Shenyang, 92020, CHN
+1897, Kanton [Guangzhou], 92020, CHN
+1898, Chengdu, 92020, CHN
+1899, Nanking [Nanjing], 92020, CHN
+1900, Changchun, 92020, CHN
+1901, XiÃ¯an, 92020, CHN
+1902, Dalian, 92020, CHN
+1903, Qingdao, 92020, CHN
+1904, Jinan, 92020, CHN
+1905, Hangzhou, 92020, CHN
+1906, Zhengzhou, 92020, CHN
+1907, Shijiazhuang, 92020, CHN
+1908, Taiyuan, 92020, CHN
+1909, Kunming, 92020, CHN
+1910, Changsha, 92020, CHN
+1911, Nanchang, 92020, CHN
+1912, Fuzhou, 92020, CHN
+1913, Lanzhou, 92020, CHN
+1914, Guiyang, 92020, CHN
+1915, Ningbo, 92020, CHN
+1916, Hefei, 92020, CHN
+1917, Urumt?i [Å¡rÂ�mqi], 92020, CHN
+1918, Anshan, 92020, CHN
+1919, Fushun, 92020, CHN
+1920, Nanning, 92020, CHN
+1921, Zibo, 92020, CHN
+1922, Qiqihar, 92020, CHN
+1923, Jilin, 92020, CHN
+1924, Tangshan, 92020, CHN
+1925, Baotou, 92020, CHN
+1926, Shenzhen, 92020, CHN
+1927, Hohhot, 92020, CHN
+1928, Handan, 92020, CHN
+1929, Wuxi, 92020, CHN
+1930, Xuzhou, 92020, CHN
+1931, Datong, 92020, CHN
+1932, Yichun, 92020, CHN
+1933, Benxi, 92020, CHN
+1934, Luoyang, 92020, CHN
+1935, Suzhou, 92020, CHN
+1936, Xining, 92020, CHN
+1937, Huainan, 92020, CHN
+1938, Jixi, 92020, CHN
+1939, Daqing, 92020, CHN
+1940, Fuxin, 92020, CHN
+1941, Amoy [Xiamen], 92020, CHN
+1942, Liuzhou, 92020, CHN
+1943, Shantou, 92020, CHN
+1944, Jinzhou, 92020, CHN
+1945, Mudanjiang, 92020, CHN
+1946, Yinchuan, 92020, CHN
+1947, Changzhou, 92020, CHN
+1948, Zhangjiakou, 92020, CHN
+1949, Dandong, 92020, CHN
+1950, Hegang, 92020, CHN
+1951, Kaifeng, 92020, CHN
+1952, Jiamusi, 92020, CHN
+1953, Liaoyang, 92020, CHN
+1954, Hengyang, 92020, CHN
+1955, Baoding, 92020, CHN
+1956, Hunjiang, 92020, CHN
+1957, Xinxiang, 92020, CHN
+1958, Huangshi, 92020, CHN
+1959, Haikou, 92020, CHN
+1960, Yantai, 92020, CHN
+1961, Bengbu, 92020, CHN
+1962, Xiangtan, 92020, CHN
+1963, Weifang, 92020, CHN
+1964, Wuhu, 92020, CHN
+1965, Pingxiang, 92020, CHN
+1966, Yingkou, 92020, CHN
+1967, Anyang, 92020, CHN
+1968, Panzhihua, 92020, CHN
+1969, Pingdingshan, 92020, CHN
+1970, Xiangfan, 92020, CHN
+1971, Zhuzhou, 92020, CHN
+1972, Jiaozuo, 92020, CHN
+1973, Wenzhou, 92020, CHN
+1974, Zhangjiang, 92020, CHN
+1975, Zigong, 92020, CHN
+1976, Shuangyashan, 92020, CHN
+1977, Zaozhuang, 92020, CHN
+1978, Yakeshi, 92020, CHN
+1979, Yichang, 92020, CHN
+1980, Zhenjiang, 92020, CHN
+1981, Huaibei, 92020, CHN
+1982, Qinhuangdao, 92020, CHN
+1983, Guilin, 92020, CHN
+1984, Liupanshui, 92020, CHN
+1985, Panjin, 92020, CHN
+1986, Yangquan, 92020, CHN
+1987, Jinxi, 92020, CHN
+1988, Liaoyuan, 92020, CHN
+1989, Lianyungang, 92020, CHN
+1990, Xianyang, 92020, CHN
+1991, TaiÃ¯an, 92020, CHN
+1992, Chifeng, 92020, CHN
+1993, Shaoguan, 92020, CHN
+1994, Nantong, 92020, CHN
+1995, Leshan, 92020, CHN
+1996, Baoji, 92020, CHN
+1997, Linyi, 92020, CHN
+1998, Tonghua, 92020, CHN
+1999, Siping, 92020, CHN
+2000, Changzhi, 92020, CHN
+2001, Tengzhou, 92020, CHN
+2002, Chaozhou, 92020, CHN
+2003, Yangzhou, 92020, CHN
+2004, Dongwan, 92020, CHN
+2005, MaÃ¯anshan, 92020, CHN
+2006, Foshan, 92020, CHN
+2007, Yueyang, 92020, CHN
+2008, Xingtai, 92020, CHN
+2009, Changde, 92020, CHN
+2010, Shihezi, 92020, CHN
+2011, Yancheng, 92020, CHN
+2012, Jiujiang, 92020, CHN
+2013, Dongying, 92020, CHN
+2014, Shashi, 92020, CHN
+2015, Xintai, 92020, CHN
+2016, Jingdezhen, 92020, CHN
+2017, Tongchuan, 92020, CHN
+2018, Zhongshan, 92020, CHN
+2019, Shiyan, 92020, CHN
+2020, Tieli, 92020, CHN
+2021, Jining, 92020, CHN
+2022, Wuhai, 92020, CHN
+2023, Mianyang, 92020, CHN
+2024, Luzhou, 92020, CHN
+2025, Zunyi, 92020, CHN
+2026, Shizuishan, 92020, CHN
+2027, Neijiang, 92020, CHN
+2028, Tongliao, 92020, CHN
+2029, Tieling, 92020, CHN
+2030, Wafangdian, 92020, CHN
+2031, Anqing, 92020, CHN
+2032, Shaoyang, 92020, CHN
+2033, Laiwu, 92020, CHN
+2034, Chengde, 92020, CHN
+2035, Tianshui, 92020, CHN
+2036, Nanyang, 92020, CHN
+2037, Cangzhou, 92020, CHN
+2038, Yibin, 92020, CHN
+2039, Huaiyin, 92020, CHN
+2040, Dunhua, 92020, CHN
+2041, Yanji, 92020, CHN
+2042, Jiangmen, 92020, CHN
+2043, Tongling, 92020, CHN
+2044, Suihua, 92020, CHN
+2045, Gongziling, 92020, CHN
+2046, Xiantao, 92020, CHN
+2047, Chaoyang, 92020, CHN
+2048, Ganzhou, 92020, CHN
+2049, Huzhou, 92020, CHN
+2050, Baicheng, 92020, CHN
+2051, Shangzi, 92020, CHN
+2052, Yangjiang, 92020, CHN
+2053, Qitaihe, 92020, CHN
+2054, Gejiu, 92020, CHN
+2055, Jiangyin, 92020, CHN
+2056, Hebi, 92020, CHN
+2057, Jiaxing, 92020, CHN
+2058, Wuzhou, 92020, CHN
+2059, Meihekou, 92020, CHN
+2060, Xuchang, 92020, CHN
+2061, Liaocheng, 92020, CHN
+2062, Haicheng, 92020, CHN
+2063, Qianjiang, 92020, CHN
+2064, Baiyin, 92020, CHN
+2065, BeiÃ¯an, 92020, CHN
+2066, Yixing, 92020, CHN
+2067, Laizhou, 92020, CHN
+2068, Qaramay, 92020, CHN
+2069, Acheng, 92020, CHN
+2070, Dezhou, 92020, CHN
+2071, Nanping, 92020, CHN
+2072, Zhaoqing, 92020, CHN
+2073, Beipiao, 92020, CHN
+2074, Fengcheng, 92020, CHN
+2075, Fuyu, 92020, CHN
+2076, Xinyang, 92020, CHN
+2077, Dongtai, 92020, CHN
+2078, Yuci, 92020, CHN
+2079, Honghu, 92020, CHN
+2080, Ezhou, 92020, CHN
+2081, Heze, 92020, CHN
+2082, Daxian, 92020, CHN
+2083, Linfen, 92020, CHN
+2084, Tianmen, 92020, CHN
+2085, Yiyang, 92020, CHN
+2086, Quanzhou, 92020, CHN
+2087, Rizhao, 92020, CHN
+2088, Deyang, 92020, CHN
+2089, Guangyuan, 92020, CHN
+2090, Changshu, 92020, CHN
+2091, Zhangzhou, 92020, CHN
+2092, Hailar, 92020, CHN
+2093, Nanchong, 92020, CHN
+2094, Jiutai, 92020, CHN
+2095, Zhaodong, 92020, CHN
+2096, Shaoxing, 92020, CHN
+2097, Fuyang, 92020, CHN
+2098, Maoming, 92020, CHN
+2099, Qujing, 92020, CHN
+2100, Ghulja, 92020, CHN
+2101, Jiaohe, 92020, CHN
+2102, Puyang, 92020, CHN
+2103, Huadian, 92020, CHN
+2104, Jiangyou, 92020, CHN
+2105, Qashqar, 92020, CHN
+2106, Anshun, 92020, CHN
+2107, Fuling, 92020, CHN
+2108, Xinyu, 92020, CHN
+2109, Hanzhong, 92020, CHN
+2110, Danyang, 92020, CHN
+2111, Chenzhou, 92020, CHN
+2112, Xiaogan, 92020, CHN
+2113, Shangqiu, 92020, CHN
+2114, Zhuhai, 92020, CHN
+2115, Qingyuan, 92020, CHN
+2116, Aqsu, 92020, CHN
+2117, Jining, 92020, CHN
+2118, Xiaoshan, 92020, CHN
+2119, Zaoyang, 92020, CHN
+2120, Xinghua, 92020, CHN
+2121, Hami, 92020, CHN
+2122, Huizhou, 92020, CHN
+2123, Jinmen, 92020, CHN
+2124, Sanming, 92020, CHN
+2125, Ulanhot, 92020, CHN
+2126, Korla, 92020, CHN
+2127, Wanxian, 92020, CHN
+2128, RuiÃ¯an, 92020, CHN
+2129, Zhoushan, 92020, CHN
+2130, Liangcheng, 92020, CHN
+2131, Jiaozhou, 92020, CHN
+2132, Taizhou, 92020, CHN
+2133, Suzhou, 92020, CHN
+2134, Yichun, 92020, CHN
+2135, Taonan, 92020, CHN
+2136, Pingdu, 92020, CHN
+2137, JiÃ¯an, 92020, CHN
+2138, Longkou, 92020, CHN
+2139, Langfang, 92020, CHN
+2140, Zhoukou, 92020, CHN
+2141, Suining, 92020, CHN
+2142, Yulin, 92020, CHN
+2143, Jinhua, 92020, CHN
+2144, LiuÃ¯an, 92020, CHN
+2145, Shuangcheng, 92020, CHN
+2146, Suizhou, 92020, CHN
+2147, Ankang, 92020, CHN
+2148, Weinan, 92020, CHN
+2149, Longjing, 92020, CHN
+2150, DaÃ¯an, 92020, CHN
+2151, Lengshuijiang, 92020, CHN
+2152, Laiyang, 92020, CHN
+2153, Xianning, 92020, CHN
+2154, Dali, 92020, CHN
+2155, Anda, 92020, CHN
+2156, Jincheng, 92020, CHN
+2157, Longyan, 92020, CHN
+2158, Xichang, 92020, CHN
+2159, Wendeng, 92020, CHN
+2160, Hailun, 92020, CHN
+2161, Binzhou, 92020, CHN
+2162, Linhe, 92020, CHN
+2163, Wuwei, 92020, CHN
+2164, Duyun, 92020, CHN
+2165, Mishan, 92020, CHN
+2166, Shangrao, 92020, CHN
+2167, Changji, 92020, CHN
+2168, Meixian, 92020, CHN
+2169, Yushu, 92020, CHN
+2170, Tiefa, 92020, CHN
+2171, HuaiÃ¯an, 92020, CHN
+2172, Leiyang, 92020, CHN
+2173, Zalantun, 92020, CHN
+2174, Weihai, 92020, CHN
+2175, Loudi, 92020, CHN
+2176, Qingzhou, 92020, CHN
+2177, Qidong, 92020, CHN
+2178, Huaihua, 92020, CHN
+2179, Luohe, 92020, CHN
+2180, Chuzhou, 92020, CHN
+2181, Kaiyuan, 92020, CHN
+2182, Linqing, 92020, CHN
+2183, Chaohu, 92020, CHN
+2184, Laohekou, 92020, CHN
+2185, Dujiangyan, 92020, CHN
+2186, Zhumadian, 92020, CHN
+2187, Linchuan, 92020, CHN
+2188, Jiaonan, 92020, CHN
+2189, Sanmenxia, 92020, CHN
+2190, Heyuan, 92020, CHN
+2191, Manzhouli, 92020, CHN
+2192, Lhasa, 92020, CHN
+2193, Lianyuan, 92020, CHN
+2194, Kuytun, 92020, CHN
+2195, Puqi, 92020, CHN
+2196, Hongjiang, 92020, CHN
+2197, Qinzhou, 92020, CHN
+2198, Renqiu, 92020, CHN
+2199, Yuyao, 92020, CHN
+2200, Guigang, 92020, CHN
+2201, Kaili, 92020, CHN
+2202, YanÃ¯an, 92020, CHN
+2203, Beihai, 92020, CHN
+2204, Xuangzhou, 92020, CHN
+2205, Quzhou, 92020, CHN
+2206, YongÃ¯an, 92020, CHN
+2207, Zixing, 92020, CHN
+2208, Liyang, 92020, CHN
+2209, Yizheng, 92020, CHN
+2210, Yumen, 92020, CHN
+2211, Liling, 92020, CHN
+2212, Yuncheng, 92020, CHN
+2213, Shanwei, 92020, CHN
+2214, Cixi, 92020, CHN
+2215, Yuanjiang, 92020, CHN
+2216, Bozhou, 92020, CHN
+2217, Jinchang, 92020, CHN
+2218, FuÃ¯an, 92020, CHN
+2219, Suqian, 92020, CHN
+2220, Shishou, 92020, CHN
+2221, Hengshui, 92020, CHN
+2222, Danjiangkou, 92020, CHN
+2223, Fujin, 92020, CHN
+2224, Sanya, 92020, CHN
+2225, Guangshui, 92020, CHN
+2226, Huangshan, 92020, CHN
+2227, Xingcheng, 92020, CHN
+2228, Zhucheng, 92020, CHN
+2229, Kunshan, 92020, CHN
+2230, Haining, 92020, CHN
+2231, Pingliang, 92020, CHN
+2232, Fuqing, 92020, CHN
+2233, Xinzhou, 92020, CHN
+2234, Jieyang, 92020, CHN
+2235, Zhangjiagang, 92020, CHN
+2236, Tong Xian, 92020, CHN
+2237, YaÃ¯an, 92020, CHN
+2238, Jinzhou, 92020, CHN
+2239, Emeishan, 92020, CHN
+2240, Enshi, 92020, CHN
+2241, Bose, 92020, CHN
+2242, Yuzhou, 92020, CHN
+2243, Kaiyuan, 92020, CHN
+2244, Tumen, 92020, CHN
+2245, Putian, 92020, CHN
+2246, Linhai, 92020, CHN
+2247, Xilin Hot, 92020, CHN
+2248, Shaowu, 92020, CHN
+2249, Junan, 92020, CHN
+2250, Huaying, 92020, CHN
+2251, Pingyi, 92020, CHN
+2252, Huangyan, 92020, CHN
+2253, Bishkek, 92020, KGZ
+2254, Osh, 92020, KGZ
+2255, Bikenibeu, 92020, KIR
+2256, Bairiki, 92020, KIR
+2257, Santafâ€š de BogotÂ , 92020, COL
+2258, Cali, 92020, COL
+2259, MedellÂ¡n, 92020, COL
+2260, Barranquilla, 92020, COL
+2261, Cartagena, 92020, COL
+2262, CÂ£cuta, 92020, COL
+2263, Bucaramanga, 92020, COL
+2264, Ibaguâ€š, 92020, COL
+2265, Pereira, 92020, COL
+2266, Santa Marta, 92020, COL
+2267, Manizales, 92020, COL
+2268, Bello, 92020, COL
+2269, Pasto, 92020, COL
+2270, Neiva, 92020, COL
+2271, Soledad, 92020, COL
+2272, Armenia, 92020, COL
+2273, Villavicencio, 92020, COL
+2274, Soacha, 92020, COL
+2275, Valledupar, 92020, COL
+2276, MonterÂ¡a, 92020, COL
+2277, ItagÂ�Â¡, 92020, COL
+2278, Palmira, 92020, COL
+2279, Buenaventura, 92020, COL
+2280, Floridablanca, 92020, COL
+2281, Sincelejo, 92020, COL
+2282, PopayÂ n, 92020, COL
+2283, Barrancabermeja, 92020, COL
+2284, Dos Quebradas, 92020, COL
+2285, TuluÂ , 92020, COL
+2286, Envigado, 92020, COL
+2287, Cartago, 92020, COL
+2288, Girardot, 92020, COL
+2289, Buga, 92020, COL
+2290, Tunja, 92020, COL
+2291, Florencia, 92020, COL
+2292, Maicao, 92020, COL
+2293, Sogamoso, 92020, COL
+2294, Giron, 92020, COL
+2295, Moroni, 92020, COM
+2296, Brazzaville, 92020, COG
+2297, Pointe-Noire, 92020, COG
+2298, Kinshasa, 92020, COD
+2299, Lubumbashi, 92020, COD
+2300, Mbuji-Mayi, 92020, COD
+2301, Kolwezi, 92020, COD
+2302, Kisangani, 92020, COD
+2303, Kananga, 92020, COD
+2304, Likasi, 92020, COD
+2305, Bukavu, 92020, COD
+2306, Kikwit, 92020, COD
+2307, Tshikapa, 92020, COD
+2308, Matadi, 92020, COD
+2309, Mbandaka, 92020, COD
+2310, Mwene-Ditu, 92020, COD
+2311, Boma, 92020, COD
+2312, Uvira, 92020, COD
+2313, Butembo, 92020, COD
+2314, Goma, 92020, COD
+2315, Kalemie, 92020, COD
+2316, Bantam, 92020, CCK
+2317, West Island, 92020, CCK
+2318, Pyongyang, 92020, PRK
+2319, Hamhung, 92020, PRK
+2320, Chongjin, 92020, PRK
+2321, Nampo, 92020, PRK
+2322, Sinuiju, 92020, PRK
+2323, Wonsan, 92020, PRK
+2324, Phyongsong, 92020, PRK
+2325, Sariwon, 92020, PRK
+2326, Haeju, 92020, PRK
+2327, Kanggye, 92020, PRK
+2328, Kimchaek, 92020, PRK
+2329, Hyesan, 92020, PRK
+2330, Kaesong, 92020, PRK
+2331, Seoul, 92020, KOR
+2332, Pusan, 92020, KOR
+2333, Inchon, 92020, KOR
+2334, Taegu, 92020, KOR
+2335, Taejon, 92020, KOR
+2336, Kwangju, 92020, KOR
+2337, Ulsan, 92020, KOR
+2338, Songnam, 92020, KOR
+2339, Puchon, 92020, KOR
+2340, Suwon, 92020, KOR
+2341, Anyang, 92020, KOR
+2342, Chonju, 92020, KOR
+2343, Chongju, 92020, KOR
+2344, Koyang, 92020, KOR
+2345, Ansan, 92020, KOR
+2346, Pohang, 92020, KOR
+2347, Chang-won, 92020, KOR
+2348, Masan, 92020, KOR
+2349, Kwangmyong, 92020, KOR
+2350, Chonan, 92020, KOR
+2351, Chinju, 92020, KOR
+2352, Iksan, 92020, KOR
+2353, Pyongtaek, 92020, KOR
+2354, Kumi, 92020, KOR
+2355, Uijongbu, 92020, KOR
+2356, Kyongju, 92020, KOR
+2357, Kunsan, 92020, KOR
+2358, Cheju, 92020, KOR
+2359, Kimhae, 92020, KOR
+2360, Sunchon, 92020, KOR
+2361, Mokpo, 92020, KOR
+2362, Yong-in, 92020, KOR
+2363, Wonju, 92020, KOR
+2364, Kunpo, 92020, KOR
+2365, Chunchon, 92020, KOR
+2366, Namyangju, 92020, KOR
+2367, Kangnung, 92020, KOR
+2368, Chungju, 92020, KOR
+2369, Andong, 92020, KOR
+2370, Yosu, 92020, KOR
+2371, Kyongsan, 92020, KOR
+2372, Paju, 92020, KOR
+2373, Yangsan, 92020, KOR
+2374, Ichon, 92020, KOR
+2375, Asan, 92020, KOR
+2376, Koje, 92020, KOR
+2377, Kimchon, 92020, KOR
+2378, Nonsan, 92020, KOR
+2379, Kuri, 92020, KOR
+2380, Chong-up, 92020, KOR
+2381, Chechon, 92020, KOR
+2382, Sosan, 92020, KOR
+2383, Shihung, 92020, KOR
+2384, Tong-yong, 92020, KOR
+2385, Kongju, 92020, KOR
+2386, Yongju, 92020, KOR
+2387, Chinhae, 92020, KOR
+2388, Sangju, 92020, KOR
+2389, Poryong, 92020, KOR
+2390, Kwang-yang, 92020, KOR
+2391, Miryang, 92020, KOR
+2392, Hanam, 92020, KOR
+2393, Kimje, 92020, KOR
+2394, Yongchon, 92020, KOR
+2395, Sachon, 92020, KOR
+2396, Uiwang, 92020, KOR
+2397, Naju, 92020, KOR
+2398, Namwon, 92020, KOR
+2399, Tonghae, 92020, KOR
+2400, Mun-gyong, 92020, KOR
+2401, Athenai, 92020, GRC
+2402, Thessaloniki, 92020, GRC
+2403, Pireus, 92020, GRC
+2404, Patras, 92020, GRC
+2405, Peristerion, 92020, GRC
+2406, Herakleion, 92020, GRC
+2407, Kallithea, 92020, GRC
+2408, Larisa, 92020, GRC
+2409, Zagreb, 92020, HRV
+2410, Split, 92020, HRV
+2411, Rijeka, 92020, HRV
+2412, Osijek, 92020, HRV
+2413, La Habana, 92020, CUB
+2414, Santiago de Cuba, 92020, CUB
+2415, CamagÂ�ey, 92020, CUB
+2416, HolguÂ¡n, 92020, CUB
+2417, Santa Clara, 92020, CUB
+2418, GuantÂ namo, 92020, CUB
+2419, Pinar del RÂ¡o, 92020, CUB
+2420, Bayamo, 92020, CUB
+2421, Cienfuegos, 92020, CUB
+2422, Victoria de las Tunas, 92020, CUB
+2423, Matanzas, 92020, CUB
+2424, Manzanillo, 92020, CUB
+2425, Sancti-SpÂ¡ritus, 92020, CUB
+2426, Ciego de Âµvila, 92020, CUB
+2427, al-Salimiya, 92020, KWT
+2428, Jalib al-Shuyukh, 92020, KWT
+2429, Kuwait, 92020, KWT
+2430, Nicosia, 92020, CYP
+2431, Limassol, 92020, CYP
+2432, Vientiane, 92020, LAO
+2433, Savannakhet, 92020, LAO
+2434, Riga, 92020, LVA
+2435, Daugavpils, 92020, LVA
+2436, Liepaja, 92020, LVA
+2437, Maseru, 92020, LSO
+2438, Beirut, 92020, LBN
+2439, Tripoli, 92020, LBN
+2440, Monrovia, 92020, LBR
+2441, Tripoli, 92020, LBY
+2442, Bengasi, 92020, LBY
+2443, Misrata, 92020, LBY
+2444, al-Zawiya, 92020, LBY
+2445, Schaan, 92020, LIE
+2446, Vaduz, 92020, LIE
+2447, Vilnius, 92020, LTU
+2448, Kaunas, 92020, LTU
+2449, Klaipeda, 92020, LTU
+2450, ?iauliai, 92020, LTU
+2451, Panevezys, 92020, LTU
+2452, Luxembourg [Luxemburg/Lâ€°tzebuerg], 92020, LUX
+2453, El-AaiÂ£n, 92020, ESH
+2454, Macao, 92020, MAC
+2455, Antananarivo, 92020, MDG
+2456, Toamasina, 92020, MDG
+2457, Antsirabâ€š, 92020, MDG
+2458, Mahajanga, 92020, MDG
+2459, Fianarantsoa, 92020, MDG
+2460, Skopje, 92020, MKD
+2461, Blantyre, 92020, MWI
+2462, Lilongwe, 92020, MWI
+2463, Male, 92020, MDV
+2464, Kuala Lumpur, 92020, MYS
+2465, Ipoh, 92020, MYS
+2466, Johor Baharu, 92020, MYS
+2467, Petaling Jaya, 92020, MYS
+2468, Kelang, 92020, MYS
+2469, Kuala Terengganu, 92020, MYS
+2470, Pinang, 92020, MYS
+2471, Kota Bharu, 92020, MYS
+2472, Kuantan, 92020, MYS
+2473, Taiping, 92020, MYS
+2474, Seremban, 92020, MYS
+2475, Kuching, 92020, MYS
+2476, Sibu, 92020, MYS
+2477, Sandakan, 92020, MYS
+2478, Alor Setar, 92020, MYS
+2479, Selayang Baru, 92020, MYS
+2480, Sungai Petani, 92020, MYS
+2481, Shah Alam, 92020, MYS
+2482, Bamako, 92020, MLI
+2483, Birkirkara, 92020, MLT
+2484, Valletta, 92020, MLT
+2485, Casablanca, 92020, MAR
+2486, Rabat, 92020, MAR
+2487, Marrakech, 92020, MAR
+2488, FÅ s, 92020, MAR
+2489, Tanger, 92020, MAR
+2490, Salâ€š, 92020, MAR
+2491, MeknÅ s, 92020, MAR
+2492, Oujda, 92020, MAR
+2493, Kâ€šnitra, 92020, MAR
+2494, Tâ€štouan, 92020, MAR
+2495, Safi, 92020, MAR
+2496, Agadir, 92020, MAR
+2497, Mohammedia, 92020, MAR
+2498, Khouribga, 92020, MAR
+2499, Beni-Mellal, 92020, MAR
+2500, Tâ€šmara, 92020, MAR
+2501, El Jadida, 92020, MAR
+2502, Nador, 92020, MAR
+2503, Ksar el Kebir, 92020, MAR
+2504, Settat, 92020, MAR
+2505, Taza, 92020, MAR
+2506, El Araich, 92020, MAR
+2507, Dalap-Uliga-Darrit, 92020, MHL
+2508, Fort-de-France, 92020, MTQ
+2509, Nouakchott, 92020, MRT
+2510, NouÆ’dhibou, 92020, MRT
+2511, Port-Louis, 92020, MUS
+2512, Beau Bassin-Rose Hill, 92020, MUS
+2513, Vacoas-Phoenix, 92020, MUS
+2514, Mamoutzou, 92020, MYT
+2515, Ciudad de Mâ€šxico, 92020, MEX
+2516, Guadalajara, 92020, MEX
+2517, Ecatepec de Morelos, 92020, MEX
+2518, Puebla, 92020, MEX
+2519, NezahualcÂ¢yotl, 92020, MEX
+2520, JuÂ rez, 92020, MEX
+2521, Tijuana, 92020, MEX
+2522, LeÂ¢n, 92020, MEX
+2523, Monterrey, 92020, MEX
+2524, Zapopan, 92020, MEX
+2525, Naucalpan de JuÂ rez, 92020, MEX
+2526, Mexicali, 92020, MEX
+2527, CuliacÂ n, 92020, MEX
+2528, Acapulco de JuÂ rez, 92020, MEX
+2529, Tlalnepantla de Baz, 92020, MEX
+2530, Mâ€šrida, 92020, MEX
+2531, Chihuahua, 92020, MEX
+2532, San Luis PotosÂ¡, 92020, MEX
+2533, Guadalupe, 92020, MEX
+2534, Toluca, 92020, MEX
+2535, Aguascalientes, 92020, MEX
+2536, Querâ€štaro, 92020, MEX
+2537, Morelia, 92020, MEX
+2538, Hermosillo, 92020, MEX
+2539, Saltillo, 92020, MEX
+2540, TorreÂ¢n, 92020, MEX
+2541, Centro (Villahermosa), 92020, MEX
+2542, San NicolÂ s de los Garza, 92020, MEX
+2543, Durango, 92020, MEX
+2544, ChimalhuacÂ n, 92020, MEX
+2545, Tlaquepaque, 92020, MEX
+2546, AtizapÂ n de Zaragoza, 92020, MEX
+2547, Veracruz, 92020, MEX
+2548, CuautitlÂ n Izcalli, 92020, MEX
+2549, Irapuato, 92020, MEX
+2550, Tuxtla Gutiâ€šrrez, 92020, MEX
+2551, TultitlÂ n, 92020, MEX
+2552, Reynosa, 92020, MEX
+2553, Benito JuÂ rez, 92020, MEX
+2554, Matamoros, 92020, MEX
+2555, Xalapa, 92020, MEX
+2556, Celaya, 92020, MEX
+2557, MazatlÂ n, 92020, MEX
+2558, Ensenada, 92020, MEX
+2559, Ahome, 92020, MEX
+2560, Cajeme, 92020, MEX
+2561, Cuernavaca, 92020, MEX
+2562, TonalÂ , 92020, MEX
+2563, Valle de Chalco Solidaridad, 92020, MEX
+2564, Nuevo Laredo, 92020, MEX
+2565, Tepic, 92020, MEX
+2566, Tampico, 92020, MEX
+2567, Ixtapaluca, 92020, MEX
+2568, Apodaca, 92020, MEX
+2569, Guasave, 92020, MEX
+2570, GÂ¢mez Palacio, 92020, MEX
+2571, Tapachula, 92020, MEX
+2572, NicolÂ s Romero, 92020, MEX
+2573, Coatzacoalcos, 92020, MEX
+2574, Uruapan, 92020, MEX
+2575, Victoria, 92020, MEX
+2576, Oaxaca de JuÂ rez, 92020, MEX
+2577, Coacalco de BerriozÂ bal, 92020, MEX
+2578, Pachuca de Soto, 92020, MEX
+2579, General Escobedo, 92020, MEX
+2580, Salamanca, 92020, MEX
+2581, Santa Catarina, 92020, MEX
+2582, TehuacÂ n, 92020, MEX
+2583, Chalco, 92020, MEX
+2584, CÂ rdenas, 92020, MEX
+2585, Campeche, 92020, MEX
+2586, La Paz, 92020, MEX
+2587, OthÂ¢n P. Blanco (Chetumal), 92020, MEX
+2588, Texcoco, 92020, MEX
+2589, La Paz, 92020, MEX
+2590, Metepec, 92020, MEX
+2591, Monclova, 92020, MEX
+2592, Huixquilucan, 92020, MEX
+2593, Chilpancingo de los Bravo, 92020, MEX
+2594, Puerto Vallarta, 92020, MEX
+2595, Fresnillo, 92020, MEX
+2596, Ciudad Madero, 92020, MEX
+2597, Soledad de Graciano SÂ nchez, 92020, MEX
+2598, San Juan del RÂ¡o, 92020, MEX
+2599, San Felipe del Progreso, 92020, MEX
+2600, CÂ¢rdoba, 92020, MEX
+2601, TecÂ mac, 92020, MEX
+2602, Ocosingo, 92020, MEX
+2603, Carmen, 92020, MEX
+2604, LÂ zaro CÂ rdenas, 92020, MEX
+2605, Jiutepec, 92020, MEX
+2606, Papantla, 92020, MEX
+2607, Comalcalco, 92020, MEX
+2608, Zamora, 92020, MEX
+2609, Nogales, 92020, MEX
+2610, Huimanguillo, 92020, MEX
+2611, Cuautla, 92020, MEX
+2612, MinatitlÂ n, 92020, MEX
+2613, Poza Rica de Hidalgo, 92020, MEX
+2614, Ciudad Valles, 92020, MEX
+2615, Navolato, 92020, MEX
+2616, San Luis RÂ¡o Colorado, 92020, MEX
+2617, Pâ€šnjamo, 92020, MEX
+2618, San Andrâ€šs Tuxtla, 92020, MEX
+2619, Guanajuato, 92020, MEX
+2620, Navojoa, 92020, MEX
+2621, ZitÂ cuaro, 92020, MEX
+2622, Boca del RÂ¡o, 92020, MEX
+2623, Allende, 92020, MEX
+2624, Silao, 92020, MEX
+2625, Macuspana, 92020, MEX
+2626, San Juan Bautista Tuxtepec, 92020, MEX
+2627, San CristÂ¢bal de las Casas, 92020, MEX
+2628, Valle de Santiago, 92020, MEX
+2629, Guaymas, 92020, MEX
+2630, Colima, 92020, MEX
+2631, Dolores Hidalgo, 92020, MEX
+2632, Lagos de Moreno, 92020, MEX
+2633, Piedras Negras, 92020, MEX
+2634, Altamira, 92020, MEX
+2635, TÂ£xpam, 92020, MEX
+2636, San Pedro Garza GarcÂ¡a, 92020, MEX
+2637, Cuauhtâ€šmoc, 92020, MEX
+2638, Manzanillo, 92020, MEX
+2639, Iguala de la Independencia, 92020, MEX
+2640, Zacatecas, 92020, MEX
+2641, Tlajomulco de ZÂ£Â¤iga, 92020, MEX
+2642, Tulancingo de Bravo, 92020, MEX
+2643, Zinacantepec, 92020, MEX
+2644, San MartÂ¡n Texmelucan, 92020, MEX
+2645, TepatitlÂ n de Morelos, 92020, MEX
+2646, MartÂ¡nez de la Torre, 92020, MEX
+2647, Orizaba, 92020, MEX
+2648, ApatzingÂ n, 92020, MEX
+2649, Atlixco, 92020, MEX
+2650, Delicias, 92020, MEX
+2651, Ixtlahuaca, 92020, MEX
+2652, El Mante, 92020, MEX
+2653, Lerdo, 92020, MEX
+2654, Almoloya de JuÂ rez, 92020, MEX
+2655, AcÂ mbaro, 92020, MEX
+2656, AcuÂ¤a, 92020, MEX
+2657, Guadalupe, 92020, MEX
+2658, Huejutla de Reyes, 92020, MEX
+2659, Hidalgo, 92020, MEX
+2660, Los Cabos, 92020, MEX
+2661, ComitÂ n de DomÂ¡nguez, 92020, MEX
+2662, CunduacÂ n, 92020, MEX
+2663, RÂ¡o Bravo, 92020, MEX
+2664, Temapache, 92020, MEX
+2665, Chilapa de Alvarez, 92020, MEX
+2666, Hidalgo del Parral, 92020, MEX
+2667, San Francisco del RincÂ¢n, 92020, MEX
+2668, Taxco de AlarcÂ¢n, 92020, MEX
+2669, Zumpango, 92020, MEX
+2670, San Pedro Cholula, 92020, MEX
+2671, Lerma, 92020, MEX
+2672, TecomÂ n, 92020, MEX
+2673, Las Margaritas, 92020, MEX
+2674, Cosoleacaque, 92020, MEX
+2675, San Luis de la Paz, 92020, MEX
+2676, Josâ€š Azueta, 92020, MEX
+2677, Santiago Ixcuintla, 92020, MEX
+2678, San Felipe, 92020, MEX
+2679, Tejupilco, 92020, MEX
+2680, Tantoyuca, 92020, MEX
+2681, Salvatierra, 92020, MEX
+2682, Tultepec, 92020, MEX
+2683, Temixco, 92020, MEX
+2684, Matamoros, 92020, MEX
+2685, PÂ nuco, 92020, MEX
+2686, El Fuerte, 92020, MEX
+2687, Tierra Blanca, 92020, MEX
+2688, Weno, 92020, FSM
+2689, Palikir, 92020, FSM
+2690, Chisinau, 92020, MDA
+2691, Tiraspol, 92020, MDA
+2692, Balti, 92020, MDA
+2693, Bender (TÅ’ghina), 92020, MDA
+2694, Monte-Carlo, 92020, MCO
+2695, Monaco-Ville, 92020, MCO
+2696, Ulan Bator, 92020, MNG
+2697, Plymouth, 92020, MSR
+2698, Maputo, 92020, MOZ
+2699, Matola, 92020, MOZ
+2700, Beira, 92020, MOZ
+2701, Nampula, 92020, MOZ
+2702, Chimoio, 92020, MOZ
+2703, Naâ€¡ala-Porto, 92020, MOZ
+2704, Quelimane, 92020, MOZ
+2705, Mocuba, 92020, MOZ
+2706, Tete, 92020, MOZ
+2707, Xai-Xai, 92020, MOZ
+2708, Gurue, 92020, MOZ
+2709, Maxixe, 92020, MOZ
+2710, Rangoon (Yangon), 92020, MMR
+2711, Mandalay, 92020, MMR
+2712, Moulmein (Mawlamyine), 92020, MMR
+2713, Pegu (Bago), 92020, MMR
+2714, Bassein (Pathein), 92020, MMR
+2715, Monywa, 92020, MMR
+2716, Sittwe (Akyab), 92020, MMR
+2717, Taunggyi (Taunggye), 92020, MMR
+2718, Meikhtila, 92020, MMR
+2719, Mergui (Myeik), 92020, MMR
+2720, Lashio (Lasho), 92020, MMR
+2721, Prome (Pyay), 92020, MMR
+2722, Henzada (Hinthada), 92020, MMR
+2723, Myingyan, 92020, MMR
+2724, Tavoy (Dawei), 92020, MMR
+2725, Pagakku (Pakokku), 92020, MMR
+2726, Windhoek, 92020, NAM
+2727, Yangor, 92020, NRU
+2728, Yaren, 92020, NRU
+2729, Kathmandu, 92020, NPL
+2730, Biratnagar, 92020, NPL
+2731, Pokhara, 92020, NPL
+2732, Lalitapur, 92020, NPL
+2733, Birgunj, 92020, NPL
+2734, Managua, 92020, NIC
+2735, LeÂ¢n, 92020, NIC
+2736, Chinandega, 92020, NIC
+2737, Masaya, 92020, NIC
+2738, Niamey, 92020, NER
+2739, Zinder, 92020, NER
+2740, Maradi, 92020, NER
+2741, Lagos, 92020, NGA
+2742, Ibadan, 92020, NGA
+2743, Ogbomosho, 92020, NGA
+2744, Kano, 92020, NGA
+2745, Oshogbo, 92020, NGA
+2746, Ilorin, 92020, NGA
+2747, Abeokuta, 92020, NGA
+2748, Port Harcourt, 92020, NGA
+2749, Zaria, 92020, NGA
+2750, Ilesha, 92020, NGA
+2751, Onitsha, 92020, NGA
+2752, Iwo, 92020, NGA
+2753, Ado-Ekiti, 92020, NGA
+2754, Abuja, 92020, NGA
+2755, Kaduna, 92020, NGA
+2756, Mushin, 92020, NGA
+2757, Maiduguri, 92020, NGA
+2758, Enugu, 92020, NGA
+2759, Ede, 92020, NGA
+2760, Aba, 92020, NGA
+2761, Ife, 92020, NGA
+2762, Ila, 92020, NGA
+2763, Oyo, 92020, NGA
+2764, Ikerre, 92020, NGA
+2765, Benin City, 92020, NGA
+2766, Iseyin, 92020, NGA
+2767, Katsina, 92020, NGA
+2768, Jos, 92020, NGA
+2769, Sokoto, 92020, NGA
+2770, Ilobu, 92020, NGA
+2771, Offa, 92020, NGA
+2772, Ikorodu, 92020, NGA
+2773, Ilawe-Ekiti, 92020, NGA
+2774, Owo, 92020, NGA
+2775, Ikirun, 92020, NGA
+2776, Shaki, 92020, NGA
+2777, Calabar, 92020, NGA
+2778, Ondo, 92020, NGA
+2779, Akure, 92020, NGA
+2780, Gusau, 92020, NGA
+2781, Ijebu-Ode, 92020, NGA
+2782, Effon-Alaiye, 92020, NGA
+2783, Kumo, 92020, NGA
+2784, Shomolu, 92020, NGA
+2785, Oka-Akoko, 92020, NGA
+2786, Ikare, 92020, NGA
+2787, Sapele, 92020, NGA
+2788, Deba Habe, 92020, NGA
+2789, Minna, 92020, NGA
+2790, Warri, 92020, NGA
+2791, Bida, 92020, NGA
+2792, Ikire, 92020, NGA
+2793, Makurdi, 92020, NGA
+2794, Lafia, 92020, NGA
+2795, Inisa, 92020, NGA
+2796, Shagamu, 92020, NGA
+2797, Awka, 92020, NGA
+2798, Gombe, 92020, NGA
+2799, Igboho, 92020, NGA
+2800, Ejigbo, 92020, NGA
+2801, Agege, 92020, NGA
+2802, Ise-Ekiti, 92020, NGA
+2803, Ugep, 92020, NGA
+2804, Epe, 92020, NGA
+2805, Alofi, 92020, NIU
+2806, Kingston, 92020, NFK
+2807, Oslo, 92020, NOR
+2808, Bergen, 92020, NOR
+2809, Trondheim, 92020, NOR
+2810, Stavanger, 92020, NOR
+2811, Bâ€˜rum, 92020, NOR
+2812, Abidjan, 92020, CIV
+2813, Bouakâ€š, 92020, CIV
+2814, Yamoussoukro, 92020, CIV
+2815, Daloa, 92020, CIV
+2816, Korhogo, 92020, CIV
+2817, al-Sib, 92020, OMN
+2818, Salala, 92020, OMN
+2819, Bawshar, 92020, OMN
+2820, Suhar, 92020, OMN
+2821, Masqat, 92020, OMN
+2822, Karachi, 92020, PAK
+2823, Lahore, 92020, PAK
+2824, Faisalabad, 92020, PAK
+2825, Rawalpindi, 92020, PAK
+2826, Multan, 92020, PAK
+2827, Hyderabad, 92020, PAK
+2828, Gujranwala, 92020, PAK
+2829, Peshawar, 92020, PAK
+2830, Quetta, 92020, PAK
+2831, Islamabad, 92020, PAK
+2832, Sargodha, 92020, PAK
+2833, Sialkot, 92020, PAK
+2834, Bahawalpur, 92020, PAK
+2835, Sukkur, 92020, PAK
+2836, Jhang, 92020, PAK
+2837, Sheikhupura, 92020, PAK
+2838, Larkana, 92020, PAK
+2839, Gujrat, 92020, PAK
+2840, Mardan, 92020, PAK
+2841, Kasur, 92020, PAK
+2842, Rahim Yar Khan, 92020, PAK
+2843, Sahiwal, 92020, PAK
+2844, Okara, 92020, PAK
+2845, Wah, 92020, PAK
+2846, Dera Ghazi Khan, 92020, PAK
+2847, Mirpur Khas, 92020, PAK
+2848, Nawabshah, 92020, PAK
+2849, Mingora, 92020, PAK
+2850, Chiniot, 92020, PAK
+2851, Kamoke, 92020, PAK
+2852, Mandi Burewala, 92020, PAK
+2853, Jhelum, 92020, PAK
+2854, Sadiqabad, 92020, PAK
+2855, Jacobabad, 92020, PAK
+2856, Shikarpur, 92020, PAK
+2857, Khanewal, 92020, PAK
+2858, Hafizabad, 92020, PAK
+2859, Kohat, 92020, PAK
+2860, Muzaffargarh, 92020, PAK
+2861, Khanpur, 92020, PAK
+2862, Gojra, 92020, PAK
+2863, Bahawalnagar, 92020, PAK
+2864, Muridke, 92020, PAK
+2865, Pak Pattan, 92020, PAK
+2866, Abottabad, 92020, PAK
+2867, Tando Adam, 92020, PAK
+2868, Jaranwala, 92020, PAK
+2869, Khairpur, 92020, PAK
+2870, Chishtian Mandi, 92020, PAK
+2871, Daska, 92020, PAK
+2872, Dadu, 92020, PAK
+2873, Mandi Bahauddin, 92020, PAK
+2874, Ahmadpur East, 92020, PAK
+2875, Kamalia, 92020, PAK
+2876, Khuzdar, 92020, PAK
+2877, Vihari, 92020, PAK
+2878, Dera Ismail Khan, 92020, PAK
+2879, Wazirabad, 92020, PAK
+2880, Nowshera, 92020, PAK
+2881, Koror, 92020, PLW
+2882, Ciudad de PanamÂ , 92020, PAN
+2883, San Miguelito, 92020, PAN
+2884, Port Moresby, 92020, PNG
+2885, AsunciÂ¢n, 92020, PRY
+2886, Ciudad del Este, 92020, PRY
+2887, San Lorenzo, 92020, PRY
+2888, Lambarâ€š, 92020, PRY
+2889, Fernando de la Mora, 92020, PRY
+2890, Lima, 92020, PER
+2891, Arequipa, 92020, PER
+2892, Trujillo, 92020, PER
+2893, Chiclayo, 92020, PER
+2894, Callao, 92020, PER
+2895, Iquitos, 92020, PER
+2896, Chimbote, 92020, PER
+2897, Huancayo, 92020, PER
+2898, Piura, 92020, PER
+2899, Cusco, 92020, PER
+2900, Pucallpa, 92020, PER
+2901, Tacna, 92020, PER
+2902, Ica, 92020, PER
+2903, Sullana, 92020, PER
+2904, Juliaca, 92020, PER
+2905, HuÂ nuco, 92020, PER
+2906, Ayacucho, 92020, PER
+2907, Chincha Alta, 92020, PER
+2908, Cajamarca, 92020, PER
+2909, Puno, 92020, PER
+2910, Ventanilla, 92020, PER
+2911, Castilla, 92020, PER
+2912, Adamstown, 92020, PCN
+2913, Garapan, 92020, MNP
+2914, Lisboa, 92020, PRT
+2915, Porto, 92020, PRT
+2916, Amadora, 92020, PRT
+2917, CoÂ¡mbra, 92020, PRT
+2918, Braga, 92020, PRT
+2919, San Juan, 92020, PRI
+2920, BayamÂ¢n, 92020, PRI
+2921, Ponce, 92020, PRI
+2922, Carolina, 92020, PRI
+2923, Caguas, 92020, PRI
+2924, Arecibo, 92020, PRI
+2925, Guaynabo, 92020, PRI
+2926, MayagÂ�ez, 92020, PRI
+2927, Toa Baja, 92020, PRI
+2928, Warszawa, 92020, POL
+2929, LÂ¢dz, 92020, POL
+2930, KrakÂ¢w, 92020, POL
+2931, Wroclaw, 92020, POL
+2932, Poznan, 92020, POL
+2933, Gdansk, 92020, POL
+2934, Szczecin, 92020, POL
+2935, Bydgoszcz, 92020, POL
+2936, Lublin, 92020, POL
+2937, Katowice, 92020, POL
+2938, Bialystok, 92020, POL
+2939, Czestochowa, 92020, POL
+2940, Gdynia, 92020, POL
+2941, Sosnowiec, 92020, POL
+2942, Radom, 92020, POL
+2943, Kielce, 92020, POL
+2944, Gliwice, 92020, POL
+2945, Torun, 92020, POL
+2946, Bytom, 92020, POL
+2947, Zabrze, 92020, POL
+2948, Bielsko-Biala, 92020, POL
+2949, Olsztyn, 92020, POL
+2950, RzeszÂ¢w, 92020, POL
+2951, Ruda Slaska, 92020, POL
+2952, Rybnik, 92020, POL
+2953, Walbrzych, 92020, POL
+2954, Tychy, 92020, POL
+2955, Dabrowa GÂ¢rnicza, 92020, POL
+2956, Plock, 92020, POL
+2957, Elblag, 92020, POL
+2958, Opole, 92020, POL
+2959, GorzÂ¢w Wielkopolski, 92020, POL
+2960, Wloclawek, 92020, POL
+2961, ChorzÂ¢w, 92020, POL
+2962, TarnÂ¢w, 92020, POL
+2963, Zielona GÂ¢ra, 92020, POL
+2964, Koszalin, 92020, POL
+2965, Legnica, 92020, POL
+2966, Kalisz, 92020, POL
+2967, Grudziadz, 92020, POL
+2968, Slupsk, 92020, POL
+2969, Jastrzebie-ZdrÂ¢j, 92020, POL
+2970, Jaworzno, 92020, POL
+2971, Jelenia GÂ¢ra, 92020, POL
+2972, Malabo, 92020, GNQ
+2973, Doha, 92020, QAT
+2974, Paris, 92020, FRA
+2975, Marseille, 92020, FRA
+2976, Lyon, 92020, FRA
+2977, Toulouse, 92020, FRA
+2978, Nice, 92020, FRA
+2979, Nantes, 92020, FRA
+2980, Strasbourg, 92020, FRA
+2981, Montpellier, 92020, FRA
+2982, Bordeaux, 92020, FRA
+2983, Rennes, 92020, FRA
+2984, Le Havre, 92020, FRA
+2985, Reims, 92020, FRA
+2986, Lille, 92020, FRA
+2987, St-Â�tienne, 92020, FRA
+2988, Toulon, 92020, FRA
+2989, Grenoble, 92020, FRA
+2990, Angers, 92020, FRA
+2991, Dijon, 92020, FRA
+2992, Brest, 92020, FRA
+2993, Le Mans, 92020, FRA
+2994, Clermont-Ferrand, 92020, FRA
+2995, Amiens, 92020, FRA
+2996, Aix-en-Provence, 92020, FRA
+2997, Limoges, 92020, FRA
+2998, NÅ’mes, 92020, FRA
+2999, Tours, 92020, FRA
+3000, Villeurbanne, 92020, FRA
+3001, Metz, 92020, FRA
+3002, Besanâ€¡on, 92020, FRA
+3003, Caen, 92020, FRA
+3004, Orlâ€šans, 92020, FRA
+3005, Mulhouse, 92020, FRA
+3006, Rouen, 92020, FRA
+3007, Boulogne-Billancourt, 92020, FRA
+3008, Perpignan, 92020, FRA
+3009, Nancy, 92020, FRA
+3010, Roubaix, 92020, FRA
+3011, Argenteuil, 92020, FRA
+3012, Tourcoing, 92020, FRA
+3013, Montreuil, 92020, FRA
+3014, Cayenne, 92020, GUF
+3015, Faaa, 92020, PYF
+3016, Papeete, 92020, PYF
+3017, Saint-Denis, 92020, REU
+3018, Bucuresti, 92020, ROM
+3019, Iasi, 92020, ROM
+3020, Constanta, 92020, ROM
+3021, Cluj-Napoca, 92020, ROM
+3022, Galati, 92020, ROM
+3023, Timisoara, 92020, ROM
+3024, Brasov, 92020, ROM
+3025, Craiova, 92020, ROM
+3026, Ploiesti, 92020, ROM
+3027, Braila, 92020, ROM
+3028, Oradea, 92020, ROM
+3029, Bacau, 92020, ROM
+3030, Pitesti, 92020, ROM
+3031, Arad, 92020, ROM
+3032, Sibiu, 92020, ROM
+3033, TÆ’rgu Mures, 92020, ROM
+3034, Baia Mare, 92020, ROM
+3035, Buzau, 92020, ROM
+3036, Satu Mare, 92020, ROM
+3037, Botosani, 92020, ROM
+3038, Piatra Neamt, 92020, ROM
+3039, RÆ’mnicu VÆ’lcea, 92020, ROM
+3040, Suceava, 92020, ROM
+3041, Drobeta-Turnu Severin, 92020, ROM
+3042, TÆ’rgoviste, 92020, ROM
+3043, Focsani, 92020, ROM
+3044, TÆ’rgu Jiu, 92020, ROM
+3045, Tulcea, 92020, ROM
+3046, Resita, 92020, ROM
+3047, Kigali, 92020, RWA
+3048, Stockholm, 92020, SWE
+3049, Gothenburg [Gâ€�teborg], 92020, SWE
+3050, Malmâ€�, 92020, SWE
+3051, Uppsala, 92020, SWE
+3052, Linkâ€�ping, 92020, SWE
+3053, Vâ€žsterâ€ s, 92020, SWE
+3054, â„¢rebro, 92020, SWE
+3055, Norrkâ€�ping, 92020, SWE
+3056, Helsingborg, 92020, SWE
+3057, Jâ€�nkâ€�ping, 92020, SWE
+3058, Umeâ€ , 92020, SWE
+3059, Lund, 92020, SWE
+3060, Borâ€ s, 92020, SWE
+3061, Sundsvall, 92020, SWE
+3062, Gâ€žvle, 92020, SWE
+3063, Jamestown, 92020, SHN
+3064, Basseterre, 92020, KNA
+3065, Castries, 92020, LCA
+3066, Kingstown, 92020, VCT
+3067, Saint-Pierre, 92020, SPM
+3068, Berlin, 92020, DEU
+3069, Hamburg, 92020, DEU
+3070, Munich [MÂ�nchen], 92020, DEU
+3071, Kâ€�ln, 92020, DEU
+3072, Frankfurt am Main, 92020, DEU
+3073, Essen, 92020, DEU
+3074, Dortmund, 92020, DEU
+3075, Stuttgart, 92020, DEU
+3076, DÂ�sseldorf, 92020, DEU
+3077, Bremen, 92020, DEU
+3078, Duisburg, 92020, DEU
+3079, Hannover, 92020, DEU
+3080, Leipzig, 92020, DEU
+3081, NÂ�rnberg, 92020, DEU
+3082, Dresden, 92020, DEU
+3083, Bochum, 92020, DEU
+3084, Wuppertal, 92020, DEU
+3085, Bielefeld, 92020, DEU
+3086, Mannheim, 92020, DEU
+3087, Bonn, 92020, DEU
+3088, Gelsenkirchen, 92020, DEU
+3089, Karlsruhe, 92020, DEU
+3090, Wiesbaden, 92020, DEU
+3091, MÂ�nster, 92020, DEU
+3092, Mâ€�nchengladbach, 92020, DEU
+3093, Chemnitz, 92020, DEU
+3094, Augsburg, 92020, DEU
+3095, Halle/Saale, 92020, DEU
+3096, Braunschweig, 92020, DEU
+3097, Aachen, 92020, DEU
+3098, Krefeld, 92020, DEU
+3099, Magdeburg, 92020, DEU
+3100, Kiel, 92020, DEU
+3101, Oberhausen, 92020, DEU
+3102, LÂ�beck, 92020, DEU
+3103, Hagen, 92020, DEU
+3104, Rostock, 92020, DEU
+3105, Freiburg im Breisgau, 92020, DEU
+3106, Erfurt, 92020, DEU
+3107, Kassel, 92020, DEU
+3108, SaarbrÂ�cken, 92020, DEU
+3109, Mainz, 92020, DEU
+3110, Hamm, 92020, DEU
+3111, Herne, 92020, DEU
+3112, MÂ�lheim an der Ruhr, 92020, DEU
+3113, Solingen, 92020, DEU
+3114, OsnabrÂ�ck, 92020, DEU
+3115, Ludwigshafen am Rhein, 92020, DEU
+3116, Leverkusen, 92020, DEU
+3117, Oldenburg, 92020, DEU
+3118, Neuss, 92020, DEU
+3119, Heidelberg, 92020, DEU
+3120, Darmstadt, 92020, DEU
+3121, Paderborn, 92020, DEU
+3122, Potsdam, 92020, DEU
+3123, WÂ�rzburg, 92020, DEU
+3124, Regensburg, 92020, DEU
+3125, Recklinghausen, 92020, DEU
+3126, Gâ€�ttingen, 92020, DEU
+3127, Bremerhaven, 92020, DEU
+3128, Wolfsburg, 92020, DEU
+3129, Bottrop, 92020, DEU
+3130, Remscheid, 92020, DEU
+3131, Heilbronn, 92020, DEU
+3132, Pforzheim, 92020, DEU
+3133, Offenbach am Main, 92020, DEU
+3134, Ulm, 92020, DEU
+3135, Ingolstadt, 92020, DEU
+3136, Gera, 92020, DEU
+3137, Salzgitter, 92020, DEU
+3138, Cottbus, 92020, DEU
+3139, Reutlingen, 92020, DEU
+3140, FÂ�rth, 92020, DEU
+3141, Siegen, 92020, DEU
+3142, Koblenz, 92020, DEU
+3143, Moers, 92020, DEU
+3144, Bergisch Gladbach, 92020, DEU
+3145, Zwickau, 92020, DEU
+3146, Hildesheim, 92020, DEU
+3147, Witten, 92020, DEU
+3148, Schwerin, 92020, DEU
+3149, Erlangen, 92020, DEU
+3150, Kaiserslautern, 92020, DEU
+3151, Trier, 92020, DEU
+3152, Jena, 92020, DEU
+3153, Iserlohn, 92020, DEU
+3154, GÂ�tersloh, 92020, DEU
+3155, Marl, 92020, DEU
+3156, LÂ�nen, 92020, DEU
+3157, DÂ�ren, 92020, DEU
+3158, Ratingen, 92020, DEU
+3159, Velbert, 92020, DEU
+3160, Esslingen am Neckar, 92020, DEU
+3161, Honiara, 92020, SLB
+3162, Lusaka, 92020, ZMB
+3163, Ndola, 92020, ZMB
+3164, Kitwe, 92020, ZMB
+3165, Kabwe, 92020, ZMB
+3166, Chingola, 92020, ZMB
+3167, Mufulira, 92020, ZMB
+3168, Luanshya, 92020, ZMB
+3169, Apia, 92020, WSM
+3170, Serravalle, 92020, SMR
+3171, San Marino, 92020, SMR
+3172, SÃ†o Tomâ€š, 92020, STP
+3173, Riyadh, 92020, SAU
+3174, Jedda, 92020, SAU
+3175, Mekka, 92020, SAU
+3176, Medina, 92020, SAU
+3177, al-Dammam, 92020, SAU
+3178, al-Taif, 92020, SAU
+3179, Tabuk, 92020, SAU
+3180, Burayda, 92020, SAU
+3181, al-Hufuf, 92020, SAU
+3182, al-Mubarraz, 92020, SAU
+3183, Khamis Mushayt, 92020, SAU
+3184, Hail, 92020, SAU
+3185, al-Kharj, 92020, SAU
+3186, al-Khubar, 92020, SAU
+3187, Jubayl, 92020, SAU
+3188, Hafar al-Batin, 92020, SAU
+3189, al-Tuqba, 92020, SAU
+3190, Yanbu, 92020, SAU
+3191, Abha, 92020, SAU
+3192, AraÃ¯ar, 92020, SAU
+3193, al-Qatif, 92020, SAU
+3194, al-Hawiya, 92020, SAU
+3195, Unayza, 92020, SAU
+3196, Najran, 92020, SAU
+3197, Pikine, 92020, SEN
+3198, Dakar, 92020, SEN
+3199, ThiÅ s, 92020, SEN
+3200, Kaolack, 92020, SEN
+3201, Ziguinchor, 92020, SEN
+3202, Rufisque, 92020, SEN
+3203, Saint-Louis, 92020, SEN
+3204, Mbour, 92020, SEN
+3205, Diourbel, 92020, SEN
+3206, Victoria, 92020, SYC
+3207, Freetown, 92020, SLE
+3208, Singapore, 92020, SGP
+3209, Bratislava, 92020, SVK
+3210, Ko?ice, 92020, SVK
+3211, Pre?ov, 92020, SVK
+3212, Ljubljana, 92020, SVN
+3213, Maribor, 92020, SVN
+3214, Mogadishu, 92020, SOM
+3215, Hargeysa, 92020, SOM
+3216, Kismaayo, 92020, SOM
+3217, Colombo, 92020, LKA
+3218, Dehiwala, 92020, LKA
+3219, Moratuwa, 92020, LKA
+3220, Jaffna, 92020, LKA
+3221, Kandy, 92020, LKA
+3222, Sri Jayawardenepura Kotte, 92020, LKA
+3223, Negombo, 92020, LKA
+3224, Omdurman, 92020, SDN
+3225, Khartum, 92020, SDN
+3226, Sharq al-Nil, 92020, SDN
+3227, Port Sudan, 92020, SDN
+3228, Kassala, 92020, SDN
+3229, Obeid, 92020, SDN
+3230, Nyala, 92020, SDN
+3231, Wad Madani, 92020, SDN
+3232, al-Qadarif, 92020, SDN
+3233, Kusti, 92020, SDN
+3234, al-Fashir, 92020, SDN
+3235, Juba, 92020, SDN
+3236, Helsinki [Helsingfors], 92020, FIN
+3237, Espoo, 92020, FIN
+3238, Tampere, 92020, FIN
+3239, Vantaa, 92020, FIN
+3240, Turku [Â�bo], 92020, FIN
+3241, Oulu, 92020, FIN
+3242, Lahti, 92020, FIN
+3243, Paramaribo, 92020, SUR
+3244, Mbabane, 92020, SWZ
+3245, ZÂ�rich, 92020, CHE
+3246, Geneve, 92020, CHE
+3247, Basel, 92020, CHE
+3248, Bern, 92020, CHE
+3249, Lausanne, 92020, CHE
+3250, Damascus, 92020, SYR
+3251, Aleppo, 92020, SYR
+3252, Hims, 92020, SYR
+3253, Hama, 92020, SYR
+3254, Latakia, 92020, SYR
+3255, al-Qamishliya, 92020, SYR
+3256, Dayr al-Zawr, 92020, SYR
+3257, Jaramana, 92020, SYR
+3258, Duma, 92020, SYR
+3259, al-Raqqa, 92020, SYR
+3260, Idlib, 92020, SYR
+3261, Dushanbe, 92020, TJK
+3262, Khujand, 92020, TJK
+3263, Taipei, 92020, TWN
+3264, Kaohsiung, 92020, TWN
+3265, Taichung, 92020, TWN
+3266, Tainan, 92020, TWN
+3267, Panchiao, 92020, TWN
+3268, Chungho, 92020, TWN
+3269, Keelung (Chilung), 92020, TWN
+3270, Sanchung, 92020, TWN
+3271, Hsinchuang, 92020, TWN
+3272, Hsinchu, 92020, TWN
+3273, Chungli, 92020, TWN
+3274, Fengshan, 92020, TWN
+3275, Taoyuan, 92020, TWN
+3276, Chiayi, 92020, TWN
+3277, Hsintien, 92020, TWN
+3278, Changhwa, 92020, TWN
+3279, Yungho, 92020, TWN
+3280, Tucheng, 92020, TWN
+3281, Pingtung, 92020, TWN
+3282, Yungkang, 92020, TWN
+3283, Pingchen, 92020, TWN
+3284, Tali, 92020, TWN
+3285, Taiping, 92020, TWN
+3286, Pate, 92020, TWN
+3287, Fengyuan, 92020, TWN
+3288, Luchou, 92020, TWN
+3289, Hsichuh, 92020, TWN
+3290, Shulin, 92020, TWN
+3291, Yuanlin, 92020, TWN
+3292, Yangmei, 92020, TWN
+3293, Taliao, 92020, TWN
+3294, Kueishan, 92020, TWN
+3295, Tanshui, 92020, TWN
+3296, Taitung, 92020, TWN
+3297, Hualien, 92020, TWN
+3298, Nantou, 92020, TWN
+3299, Lungtan, 92020, TWN
+3300, Touliu, 92020, TWN
+3301, Tsaotun, 92020, TWN
+3302, Kangshan, 92020, TWN
+3303, Ilan, 92020, TWN
+3304, Miaoli, 92020, TWN
+3305, Dar es Salaam, 92020, TZA
+3306, Dodoma, 92020, TZA
+3307, Mwanza, 92020, TZA
+3308, Zanzibar, 92020, TZA
+3309, Tanga, 92020, TZA
+3310, Mbeya, 92020, TZA
+3311, Morogoro, 92020, TZA
+3312, Arusha, 92020, TZA
+3313, Moshi, 92020, TZA
+3314, Tabora, 92020, TZA
+3315, Kâ€ºbenhavn, 92020, DNK
+3316, Â�rhus, 92020, DNK
+3317, Odense, 92020, DNK
+3318, Aalborg, 92020, DNK
+3319, Frederiksberg, 92020, DNK
+3320, Bangkok, 92020, THA
+3321, Nonthaburi, 92020, THA
+3322, Nakhon Ratchasima, 92020, THA
+3323, Chiang Mai, 92020, THA
+3324, Udon Thani, 92020, THA
+3325, Hat Yai, 92020, THA
+3326, Khon Kaen, 92020, THA
+3327, Pak Kret, 92020, THA
+3328, Nakhon Sawan, 92020, THA
+3329, Ubon Ratchathani, 92020, THA
+3330, Songkhla, 92020, THA
+3331, Nakhon Pathom, 92020, THA
+3332, Lomâ€š, 92020, TGO
+3333, Fakaofo, 92020, TKL
+3334, NukuÃ¯alofa, 92020, TON
+3335, Chaguanas, 92020, TTO
+3336, Port-of-Spain, 92020, TTO
+3337, NÃ¯Djamâ€šna, 92020, TCD
+3338, Moundou, 92020, TCD
+3339, Praha, 92020, CZE
+3340, Brno, 92020, CZE
+3341, Ostrava, 92020, CZE
+3342, Plzen, 92020, CZE
+3343, Olomouc, 92020, CZE
+3344, Liberec, 92020, CZE
+3345, Ceskâ€š Budejovice, 92020, CZE
+3346, Hradec KrÂ lovâ€š, 92020, CZE
+3347, Ã©stÂ¡ nad Labem, 92020, CZE
+3348, Pardubice, 92020, CZE
+3349, Tunis, 92020, TUN
+3350, Sfax, 92020, TUN
+3351, Ariana, 92020, TUN
+3352, Ettadhamen, 92020, TUN
+3353, Sousse, 92020, TUN
+3354, Kairouan, 92020, TUN
+3355, Biserta, 92020, TUN
+3356, GabÅ s, 92020, TUN
+3357, Istanbul, 92020, TUR
+3358, Ankara, 92020, TUR
+3359, Izmir, 92020, TUR
+3360, Adana, 92020, TUR
+3361, Bursa, 92020, TUR
+3362, Gaziantep, 92020, TUR
+3363, Konya, 92020, TUR
+3364, Mersin (Iâ€¡el), 92020, TUR
+3365, Antalya, 92020, TUR
+3366, Diyarbakir, 92020, TUR
+3367, Kayseri, 92020, TUR
+3368, Eskisehir, 92020, TUR
+3369, Sanliurfa, 92020, TUR
+3370, Samsun, 92020, TUR
+3371, Malatya, 92020, TUR
+3372, Gebze, 92020, TUR
+3373, Denizli, 92020, TUR
+3374, Sivas, 92020, TUR
+3375, Erzurum, 92020, TUR
+3376, Tarsus, 92020, TUR
+3377, Kahramanmaras, 92020, TUR
+3378, ElÆ’zig, 92020, TUR
+3379, Van, 92020, TUR
+3380, Sultanbeyli, 92020, TUR
+3381, Izmit (Kocaeli), 92020, TUR
+3382, Manisa, 92020, TUR
+3383, Batman, 92020, TUR
+3384, Balikesir, 92020, TUR
+3385, Sakarya (Adapazari), 92020, TUR
+3386, Iskenderun, 92020, TUR
+3387, Osmaniye, 92020, TUR
+3388, â‚¬orum, 92020, TUR
+3389, KÂ�tahya, 92020, TUR
+3390, Hatay (Antakya), 92020, TUR
+3391, Kirikkale, 92020, TUR
+3392, Adiyaman, 92020, TUR
+3393, Trabzon, 92020, TUR
+3394, Ordu, 92020, TUR
+3395, Aydin, 92020, TUR
+3396, Usak, 92020, TUR
+3397, Edirne, 92020, TUR
+3398, â‚¬orlu, 92020, TUR
+3399, Isparta, 92020, TUR
+3400, KarabÂ�k, 92020, TUR
+3401, Kilis, 92020, TUR
+3402, Alanya, 92020, TUR
+3403, Kiziltepe, 92020, TUR
+3404, Zonguldak, 92020, TUR
+3405, Siirt, 92020, TUR
+3406, Viransehir, 92020, TUR
+3407, Tekirdag, 92020, TUR
+3408, Karaman, 92020, TUR
+3409, Afyon, 92020, TUR
+3410, Aksaray, 92020, TUR
+3411, Ceyhan, 92020, TUR
+3412, Erzincan, 92020, TUR
+3413, Bismil, 92020, TUR
+3414, Nazilli, 92020, TUR
+3415, Tokat, 92020, TUR
+3416, Kars, 92020, TUR
+3417, Inegâ€�l, 92020, TUR
+3418, Bandirma, 92020, TUR
+3419, Ashgabat, 92020, TKM
+3420, Châ€žrjew, 92020, TKM
+3421, Dashhowuz, 92020, TKM
+3422, Mary, 92020, TKM
+3423, Cockburn Town, 92020, TCA
+3424, Funafuti, 92020, TUV
+3425, Kampala, 92020, UGA
+3426, Kyiv, 92020, UKR
+3427, Harkova [Harkiv], 92020, UKR
+3428, Dnipropetrovsk, 92020, UKR
+3429, Donetsk, 92020, UKR
+3430, Odesa, 92020, UKR
+3431, Zaporizzja, 92020, UKR
+3432, Lviv, 92020, UKR
+3433, Kryvyi Rig, 92020, UKR
+3434, Mykolajiv, 92020, UKR
+3435, Mariupol, 92020, UKR
+3436, Lugansk, 92020, UKR
+3437, Vinnytsja, 92020, UKR
+3438, Makijivka, 92020, UKR
+3439, Herson, 92020, UKR
+3440, Sevastopol, 92020, UKR
+3441, Simferopol, 92020, UKR
+3442, Pultava [Poltava], 92020, UKR
+3443, T?ernigiv, 92020, UKR
+3444, T?erkasy, 92020, UKR
+3445, Gorlivka, 92020, UKR
+3446, Zytomyr, 92020, UKR
+3447, Sumy, 92020, UKR
+3448, Dniprodzerzynsk, 92020, UKR
+3449, Kirovograd, 92020, UKR
+3450, Hmelnytskyi, 92020, UKR
+3451, T?ernivtsi, 92020, UKR
+3452, Rivne, 92020, UKR
+3453, Krement?uk, 92020, UKR
+3454, Ivano-Frankivsk, 92020, UKR
+3455, Ternopil, 92020, UKR
+3456, Lutsk, 92020, UKR
+3457, Bila Tserkva, 92020, UKR
+3458, Kramatorsk, 92020, UKR
+3459, Melitopol, 92020, UKR
+3460, Kert?, 92020, UKR
+3461, Nikopol, 92020, UKR
+3462, Berdjansk, 92020, UKR
+3463, Pavlograd, 92020, UKR
+3464, Sjeverodonetsk, 92020, UKR
+3465, Slovjansk, 92020, UKR
+3466, Uzgorod, 92020, UKR
+3467, Alt?evsk, 92020, UKR
+3468, Lysyt?ansk, 92020, UKR
+3469, Jevpatorija, 92020, UKR
+3470, Kamjanets-Podilskyi, 92020, UKR
+3471, Jenakijeve, 92020, UKR
+3472, Krasnyi Lut?, 92020, UKR
+3473, Stahanov, 92020, UKR
+3474, Oleksandrija, 92020, UKR
+3475, Konotop, 92020, UKR
+3476, Kostjantynivka, 92020, UKR
+3477, Berdyt?iv, 92020, UKR
+3478, Izmajil, 92020, UKR
+3479, ?ostka, 92020, UKR
+3480, Uman, 92020, UKR
+3481, Brovary, 92020, UKR
+3482, Mukat?eve, 92020, UKR
+3483, Budapest, 92020, HUN
+3484, Debrecen, 92020, HUN
+3485, Miskolc, 92020, HUN
+3486, Szeged, 92020, HUN
+3487, Pâ€šcs, 92020, HUN
+3488, Gyâ€�r, 92020, HUN
+3489, NyiregyhÂ za, 92020, HUN
+3490, Kecskemâ€št, 92020, HUN
+3491, Szâ€škesfehâ€šrvÂ r, 92020, HUN
+3492, Montevideo, 92020, URY
+3493, Noumâ€ša, 92020, NCL
+3494, Auckland, 92020, NZL
+3495, Christchurch, 92020, NZL
+3496, Manukau, 92020, NZL
+3497, North Shore, 92020, NZL
+3498, Waitakere, 92020, NZL
+3499, Wellington, 92020, NZL
+3500, Dunedin, 92020, NZL
+3501, Hamilton, 92020, NZL
+3502, Lower Hutt, 92020, NZL
+3503, Toskent, 92020, UZB
+3504, Namangan, 92020, UZB
+3505, Samarkand, 92020, UZB
+3506, Andijon, 92020, UZB
+3507, Buhoro, 92020, UZB
+3508, Karsi, 92020, UZB
+3509, Nukus, 92020, UZB
+3510, KÂ�kon, 92020, UZB
+3511, Fargona, 92020, UZB
+3512, Circik, 92020, UZB
+3513, Margilon, 92020, UZB
+3514, Å¡rgenc, 92020, UZB
+3515, Angren, 92020, UZB
+3516, Cizah, 92020, UZB
+3517, Navoi, 92020, UZB
+3518, Olmalik, 92020, UZB
+3519, Termiz, 92020, UZB
+3520, Minsk, 92020, BLR
+3521, Gomel, 92020, BLR
+3522, Mogiljov, 92020, BLR
+3523, Vitebsk, 92020, BLR
+3524, Grodno, 92020, BLR
+3525, Brest, 92020, BLR
+3526, Bobruisk, 92020, BLR
+3527, Baranovit?i, 92020, BLR
+3528, Borisov, 92020, BLR
+3529, Pinsk, 92020, BLR
+3530, Or?a, 92020, BLR
+3531, Mozyr, 92020, BLR
+3532, Novopolotsk, 92020, BLR
+3533, Lida, 92020, BLR
+3534, Soligorsk, 92020, BLR
+3535, Molodet?no, 92020, BLR
+3536, Mata-Utu, 92020, WLF
+3537, Port-Vila, 92020, VUT
+3538, Cittâ€¦ del Vaticano, 92020, VAT
+3539, Caracas, 92020, VEN
+3540, MaracaÂ¡bo, 92020, VEN
+3541, Barquisimeto, 92020, VEN
+3542, Valencia, 92020, VEN
+3543, Ciudad Guayana, 92020, VEN
+3544, Petare, 92020, VEN
+3545, Maracay, 92020, VEN
+3546, Barcelona, 92020, VEN
+3547, MaturÂ¡n, 92020, VEN
+3548, San CristÂ¢bal, 92020, VEN
+3549, Ciudad BolÂ¡var, 92020, VEN
+3550, CumanÂ , 92020, VEN
+3551, Mâ€šrida, 92020, VEN
+3552, Cabimas, 92020, VEN
+3553, Barinas, 92020, VEN
+3554, Turmero, 92020, VEN
+3555, Baruta, 92020, VEN
+3556, Puerto Cabello, 92020, VEN
+3557, Santa Ana de Coro, 92020, VEN
+3558, Los Teques, 92020, VEN
+3559, Punto Fijo, 92020, VEN
+3560, Guarenas, 92020, VEN
+3561, Acarigua, 92020, VEN
+3562, Puerto La Cruz, 92020, VEN
+3563, Ciudad Losada, 92020, VEN
+3564, Guacara, 92020, VEN
+3565, Valera, 92020, VEN
+3566, Guanare, 92020, VEN
+3567, CarÂ£pano, 92020, VEN
+3568, Catia La Mar, 92020, VEN
+3569, El Tigre, 92020, VEN
+3570, Guatire, 92020, VEN
+3571, Calabozo, 92020, VEN
+3572, Pozuelos, 92020, VEN
+3573, Ciudad Ojeda, 92020, VEN
+3574, Ocumare del Tuy, 92020, VEN
+3575, Valle de la Pascua, 92020, VEN
+3576, Araure, 92020, VEN
+3577, San Fernando de Apure, 92020, VEN
+3578, San Felipe, 92020, VEN
+3579, El LimÂ¢n, 92020, VEN
+3580, Moscow, 92020, RUS
+3581, St Petersburg, 92020, RUS
+3582, Novosibirsk, 92020, RUS
+3583, Nizni Novgorod, 92020, RUS
+3584, Jekaterinburg, 92020, RUS
+3585, Samara, 92020, RUS
+3586, Omsk, 92020, RUS
+3587, Kazan, 92020, RUS
+3588, Ufa, 92020, RUS
+3589, T?eljabinsk, 92020, RUS
+3590, Rostov-na-Donu, 92020, RUS
+3591, Perm, 92020, RUS
+3592, Volgograd, 92020, RUS
+3593, Voronez, 92020, RUS
+3594, Krasnojarsk, 92020, RUS
+3595, Saratov, 92020, RUS
+3596, Toljatti, 92020, RUS
+3597, Uljanovsk, 92020, RUS
+3598, Izevsk, 92020, RUS
+3599, Krasnodar, 92020, RUS
+3600, Jaroslavl, 92020, RUS
+3601, Habarovsk, 92020, RUS
+3602, Vladivostok, 92020, RUS
+3603, Irkutsk, 92020, RUS
+3604, Barnaul, 92020, RUS
+3605, Novokuznetsk, 92020, RUS
+3606, Penza, 92020, RUS
+3607, Rjazan, 92020, RUS
+3608, Orenburg, 92020, RUS
+3609, Lipetsk, 92020, RUS
+3610, Nabereznyje T?elny, 92020, RUS
+3611, Tula, 92020, RUS
+3612, Tjumen, 92020, RUS
+3613, Kemerovo, 92020, RUS
+3614, Astrahan, 92020, RUS
+3615, Tomsk, 92020, RUS
+3616, Kirov, 92020, RUS
+3617, Ivanovo, 92020, RUS
+3618, T?eboksary, 92020, RUS
+3619, Brjansk, 92020, RUS
+3620, Tver, 92020, RUS
+3621, Kursk, 92020, RUS
+3622, Magnitogorsk, 92020, RUS
+3623, Kaliningrad, 92020, RUS
+3624, Nizni Tagil, 92020, RUS
+3625, Murmansk, 92020, RUS
+3626, Ulan-Ude, 92020, RUS
+3627, Kurgan, 92020, RUS
+3628, Arkangeli, 92020, RUS
+3629, Sot?i, 92020, RUS
+3630, Smolensk, 92020, RUS
+3631, Orjol, 92020, RUS
+3632, Stavropol, 92020, RUS
+3633, Belgorod, 92020, RUS
+3634, Kaluga, 92020, RUS
+3635, Vladimir, 92020, RUS
+3636, Mahat?kala, 92020, RUS
+3637, T?erepovets, 92020, RUS
+3638, Saransk, 92020, RUS
+3639, Tambov, 92020, RUS
+3640, Vladikavkaz, 92020, RUS
+3641, T?ita, 92020, RUS
+3642, Vologda, 92020, RUS
+3643, Veliki Novgorod, 92020, RUS
+3644, Komsomolsk-na-Amure, 92020, RUS
+3645, Kostroma, 92020, RUS
+3646, Volzski, 92020, RUS
+3647, Taganrog, 92020, RUS
+3648, Petroskoi, 92020, RUS
+3649, Bratsk, 92020, RUS
+3650, Dzerzinsk, 92020, RUS
+3651, Surgut, 92020, RUS
+3652, Orsk, 92020, RUS
+3653, Sterlitamak, 92020, RUS
+3654, Angarsk, 92020, RUS
+3655, Jo?kar-Ola, 92020, RUS
+3656, Rybinsk, 92020, RUS
+3657, Prokopjevsk, 92020, RUS
+3658, Niznevartovsk, 92020, RUS
+3659, Nalt?ik, 92020, RUS
+3660, Syktyvkar, 92020, RUS
+3661, Severodvinsk, 92020, RUS
+3662, Bijsk, 92020, RUS
+3663, Niznekamsk, 92020, RUS
+3664, Blagove?t?ensk, 92020, RUS
+3665, ?ahty, 92020, RUS
+3666, Staryi Oskol, 92020, RUS
+3667, Zelenograd, 92020, RUS
+3668, Balakovo, 92020, RUS
+3669, Novorossijsk, 92020, RUS
+3670, Pihkova, 92020, RUS
+3671, Zlatoust, 92020, RUS
+3672, Jakutsk, 92020, RUS
+3673, Podolsk, 92020, RUS
+3674, Petropavlovsk-Kamt?atski, 92020, RUS
+3675, Kamensk-Uralski, 92020, RUS
+3676, Engels, 92020, RUS
+3677, Syzran, 92020, RUS
+3678, Grozny, 92020, RUS
+3679, Novot?erkassk, 92020, RUS
+3680, Berezniki, 92020, RUS
+3681, Juzno-Sahalinsk, 92020, RUS
+3682, Volgodonsk, 92020, RUS
+3683, Abakan, 92020, RUS
+3684, Maikop, 92020, RUS
+3685, Miass, 92020, RUS
+3686, Armavir, 92020, RUS
+3687, Ljubertsy, 92020, RUS
+3688, Rubtsovsk, 92020, RUS
+3689, Kovrov, 92020, RUS
+3690, Nahodka, 92020, RUS
+3691, Ussurijsk, 92020, RUS
+3692, Salavat, 92020, RUS
+3693, Myti?t?i, 92020, RUS
+3694, Kolomna, 92020, RUS
+3695, Elektrostal, 92020, RUS
+3696, Murom, 92020, RUS
+3697, Kolpino, 92020, RUS
+3698, Norilsk, 92020, RUS
+3699, Almetjevsk, 92020, RUS
+3700, Novomoskovsk, 92020, RUS
+3701, Dimitrovgrad, 92020, RUS
+3702, Pervouralsk, 92020, RUS
+3703, Himki, 92020, RUS
+3704, Bala?iha, 92020, RUS
+3705, Nevinnomyssk, 92020, RUS
+3706, Pjatigorsk, 92020, RUS
+3707, Korolev, 92020, RUS
+3708, Serpuhov, 92020, RUS
+3709, Odintsovo, 92020, RUS
+3710, Orehovo-Zujevo, 92020, RUS
+3711, Kamy?in, 92020, RUS
+3712, Novot?eboksarsk, 92020, RUS
+3713, T?erkessk, 92020, RUS
+3714, At?insk, 92020, RUS
+3715, Magadan, 92020, RUS
+3716, Mit?urinsk, 92020, RUS
+3717, Kislovodsk, 92020, RUS
+3718, Jelets, 92020, RUS
+3719, Seversk, 92020, RUS
+3720, Noginsk, 92020, RUS
+3721, Velikije Luki, 92020, RUS
+3722, Novokuiby?evsk, 92020, RUS
+3723, Neftekamsk, 92020, RUS
+3724, Leninsk-Kuznetski, 92020, RUS
+3725, Oktjabrski, 92020, RUS
+3726, Sergijev Posad, 92020, RUS
+3727, Arzamas, 92020, RUS
+3728, Kiseljovsk, 92020, RUS
+3729, Novotroitsk, 92020, RUS
+3730, Obninsk, 92020, RUS
+3731, Kansk, 92020, RUS
+3732, Glazov, 92020, RUS
+3733, Solikamsk, 92020, RUS
+3734, Sarapul, 92020, RUS
+3735, Ust-Ilimsk, 92020, RUS
+3736, ?t?olkovo, 92020, RUS
+3737, Mezduret?ensk, 92020, RUS
+3738, Usolje-Sibirskoje, 92020, RUS
+3739, Elista, 92020, RUS
+3740, Novo?ahtinsk, 92020, RUS
+3741, Votkinsk, 92020, RUS
+3742, Kyzyl, 92020, RUS
+3743, Serov, 92020, RUS
+3744, Zelenodolsk, 92020, RUS
+3745, Zeleznodoroznyi, 92020, RUS
+3746, Kine?ma, 92020, RUS
+3747, Kuznetsk, 92020, RUS
+3748, Uhta, 92020, RUS
+3749, Jessentuki, 92020, RUS
+3750, Tobolsk, 92020, RUS
+3751, Neftejugansk, 92020, RUS
+3752, Bataisk, 92020, RUS
+3753, Nojabrsk, 92020, RUS
+3754, Bala?ov, 92020, RUS
+3755, Zeleznogorsk, 92020, RUS
+3756, Zukovski, 92020, RUS
+3757, Anzero-Sudzensk, 92020, RUS
+3758, Bugulma, 92020, RUS
+3759, Zeleznogorsk, 92020, RUS
+3760, Novouralsk, 92020, RUS
+3761, Pu?kin, 92020, RUS
+3762, Vorkuta, 92020, RUS
+3763, Derbent, 92020, RUS
+3764, Kirovo-T?epetsk, 92020, RUS
+3765, Krasnogorsk, 92020, RUS
+3766, Klin, 92020, RUS
+3767, T?aikovski, 92020, RUS
+3768, Novyi Urengoi, 92020, RUS
+3769, Ho Chi Minh City, 92020, VNM
+3770, Hanoi, 92020, VNM
+3771, Haiphong, 92020, VNM
+3772, Da Nang, 92020, VNM
+3773, BiË†n Hoa, 92020, VNM
+3774, Nha Trang, 92020, VNM
+3775, Hue, 92020, VNM
+3776, Can Tho, 92020, VNM
+3777, Cam Pha, 92020, VNM
+3778, Nam Dinh, 92020, VNM
+3779, Quy Nhon, 92020, VNM
+3780, Vung Tau, 92020, VNM
+3781, Rach Gia, 92020, VNM
+3782, Long Xuyen, 92020, VNM
+3783, Thai Nguyen, 92020, VNM
+3784, Hong Gai, 92020, VNM
+3785, Phan ThiË†t, 92020, VNM
+3786, Cam Ranh, 92020, VNM
+3787, Vinh, 92020, VNM
+3788, My Tho, 92020, VNM
+3789, Da Lat, 92020, VNM
+3790, Buon Ma Thuot, 92020, VNM
+3791, Tallinn, 92020, EST
+3792, Tartu, 92020, EST
+3793, New York, 92020, USA
+3794, Los Angeles, 92020, USA
+3795, Chicago, 92020, USA
+3796, Houston, 92020, USA
+3797, Philadelphia, 92020, USA
+3798, Phoenix, 92020, USA
+3799, San Diego, 92020, USA
+3800, Dallas, 92020, USA
+3801, San Antonio, 92020, USA
+3802, Detroit, 92020, USA
+3803, San Jose, 92020, USA
+3804, Indianapolis, 92020, USA
+3805, San Francisco, 92020, USA
+3806, Jacksonville, 92020, USA
+3807, Columbus, 92020, USA
+3808, Austin, 92020, USA
+3809, Baltimore, 92020, USA
+3810, Memphis, 92020, USA
+3811, Milwaukee, 92020, USA
+3812, Boston, 92020, USA
+3813, Washington, 92020, USA
+3814, Nashville-Davidson, 92020, USA
+3815, El Paso, 92020, USA
+3816, Seattle, 92020, USA
+3817, Denver, 92020, USA
+3818, Charlotte, 92020, USA
+3819, Fort Worth, 92020, USA
+3820, Portland, 92020, USA
+3821, Oklahoma City, 92020, USA
+3822, Tucson, 92020, USA
+3823, New Orleans, 92020, USA
+3824, Las Vegas, 92020, USA
+3825, Cleveland, 92020, USA
+3826, Long Beach, 92020, USA
+3827, Albuquerque, 92020, USA
+3828, Kansas City, 92020, USA
+3829, Fresno, 92020, USA
+3830, Virginia Beach, 92020, USA
+3831, Atlanta, 92020, USA
+3832, Sacramento, 92020, USA
+3833, Oakland, 92020, USA
+3834, Mesa, 92020, USA
+3835, Tulsa, 92020, USA
+3836, Omaha, 92020, USA
+3837, Minneapolis, 92020, USA
+3838, Honolulu, 92020, USA
+3839, Miami, 92020, USA
+3840, Colorado Springs, 92020, USA
+3841, Saint Louis, 92020, USA
+3842, Wichita, 92020, USA
+3843, Santa Ana, 92020, USA
+3844, Pittsburgh, 92020, USA
+3845, Arlington, 92020, USA
+3846, Cincinnati, 92020, USA
+3847, Anaheim, 92020, USA
+3848, Toledo, 92020, USA
+3849, Tampa, 92020, USA
+3850, Buffalo, 92020, USA
+3851, Saint Paul, 92020, USA
+3852, Corpus Christi, 92020, USA
+3853, Aurora, 92020, USA
+3854, Raleigh, 92020, USA
+3855, Newark, 92020, USA
+3856, Lexington-Fayette, 92020, USA
+3857, Anchorage, 92020, USA
+3858, Louisville, 92020, USA
+3859, Riverside, 92020, USA
+3860, Saint Petersburg, 92020, USA
+3861, Bakersfield, 92020, USA
+3862, Stockton, 92020, USA
+3863, Birmingham, 92020, USA
+3864, Jersey City, 92020, USA
+3865, Norfolk, 92020, USA
+3866, Baton Rouge, 92020, USA
+3867, Hialeah, 92020, USA
+3868, Lincoln, 92020, USA
+3869, Greensboro, 92020, USA
+3870, Plano, 92020, USA
+3871, Rochester, 92020, USA
+3872, Glendale, 92020, USA
+3873, Akron, 92020, USA
+3874, Garland, 92020, USA
+3875, Madison, 92020, USA
+3876, Fort Wayne, 92020, USA
+3877, Fremont, 92020, USA
+3878, Scottsdale, 92020, USA
+3879, Montgomery, 92020, USA
+3880, Shreveport, 92020, USA
+3881, Augusta-Richmond County, 92020, USA
+3882, Lubbock, 92020, USA
+3883, Chesapeake, 92020, USA
+3884, Mobile, 92020, USA
+3885, Des Moines, 92020, USA
+3886, Grand Rapids, 92020, USA
+3887, Richmond, 92020, USA
+3888, Yonkers, 92020, USA
+3889, Spokane, 92020, USA
+3890, Glendale, 92020, USA
+3891, Tacoma, 92020, USA
+3892, Irving, 92020, USA
+3893, Huntington Beach, 92020, USA
+3894, Modesto, 92020, USA
+3895, Durham, 92020, USA
+3896, Columbus, 92020, USA
+3897, Orlando, 92020, USA
+3898, Boise City, 92020, USA
+3899, Winston-Salem, 92020, USA
+3900, San Bernardino, 92020, USA
+3901, Jackson, 92020, USA
+3902, Little Rock, 92020, USA
+3903, Salt Lake City, 92020, USA
+3904, Reno, 92020, USA
+3905, Newport News, 92020, USA
+3906, Chandler, 92020, USA
+3907, Laredo, 92020, USA
+3908, Henderson, 92020, USA
+3909, Arlington, 92020, USA
+3910, Knoxville, 92020, USA
+3911, Amarillo, 92020, USA
+3912, Providence, 92020, USA
+3913, Chula Vista, 92020, USA
+3914, Worcester, 92020, USA
+3915, Oxnard, 92020, USA
+3916, Dayton, 92020, USA
+3917, Garden Grove, 92020, USA
+3918, Oceanside, 92020, USA
+3919, Tempe, 92020, USA
+3920, Huntsville, 92020, USA
+3921, Ontario, 92020, USA
+3922, Chattanooga, 92020, USA
+3923, Fort Lauderdale, 92020, USA
+3924, Springfield, 92020, USA
+3925, Springfield, 92020, USA
+3926, Santa Clarita, 92020, USA
+3927, Salinas, 92020, USA
+3928, Tallahassee, 92020, USA
+3929, Rockford, 92020, USA
+3930, Pomona, 92020, USA
+3931, Metairie, 92020, USA
+3932, Paterson, 92020, USA
+3933, Overland Park, 92020, USA
+3934, Santa Rosa, 92020, USA
+3935, Syracuse, 92020, USA
+3936, Kansas City, 92020, USA
+3937, Hampton, 92020, USA
+3938, Lakewood, 92020, USA
+3939, Vancouver, 92020, USA
+3940, Irvine, 92020, USA
+3941, Aurora, 92020, USA
+3942, Moreno Valley, 92020, USA
+3943, Pasadena, 92020, USA
+3944, Hayward, 92020, USA
+3945, Brownsville, 92020, USA
+3946, Bridgeport, 92020, USA
+3947, Hollywood, 92020, USA
+3948, Warren, 92020, USA
+3949, Torrance, 92020, USA
+3950, Eugene, 92020, USA
+3951, Pembroke Pines, 92020, USA
+3952, Salem, 92020, USA
+3953, Pasadena, 92020, USA
+3954, Escondido, 92020, USA
+3955, Sunnyvale, 92020, USA
+3956, Savannah, 92020, USA
+3957, Fontana, 92020, USA
+3958, Orange, 92020, USA
+3959, Naperville, 92020, USA
+3960, Alexandria, 92020, USA
+3961, Rancho Cucamonga, 92020, USA
+3962, Grand Prairie, 92020, USA
+3963, East Los Angeles, 92020, USA
+3964, Fullerton, 92020, USA
+3965, Corona, 92020, USA
+3966, Flint, 92020, USA
+3967, Paradise, 92020, USA
+3968, Mesquite, 92020, USA
+3969, Sterling Heights, 92020, USA
+3970, Sioux Falls, 92020, USA
+3971, New Haven, 92020, USA
+3972, Topeka, 92020, USA
+3973, Concord, 92020, USA
+3974, Evansville, 92020, USA
+3975, Hartford, 92020, USA
+3976, Fayetteville, 92020, USA
+3977, Cedar Rapids, 92020, USA
+3978, Elizabeth, 92020, USA
+3979, Lansing, 92020, USA
+3980, Lancaster, 92020, USA
+3981, Fort Collins, 92020, USA
+3982, Coral Springs, 92020, USA
+3983, Stamford, 92020, USA
+3984, Thousand Oaks, 92020, USA
+3985, Vallejo, 92020, USA
+3986, Palmdale, 92020, USA
+3987, Columbia, 92020, USA
+3988, El Monte, 92020, USA
+3989, Abilene, 92020, USA
+3990, North Las Vegas, 92020, USA
+3991, Ann Arbor, 92020, USA
+3992, Beaumont, 92020, USA
+3993, Waco, 92020, USA
+3994, Macon, 92020, USA
+3995, Independence, 92020, USA
+3996, Peoria, 92020, USA
+3997, Inglewood, 92020, USA
+3998, Springfield, 92020, USA
+3999, Simi Valley, 92020, USA
+4000, Lafayette, 92020, USA
+4001, Gilbert, 92020, USA
+4002, Carrollton, 92020, USA
+4003, Bellevue, 92020, USA
+4004, West Valley City, 92020, USA
+4005, Clarksville, 92020, USA
+4006, Costa Mesa, 92020, USA
+4007, Peoria, 92020, USA
+4008, South Bend, 92020, USA
+4009, Downey, 92020, USA
+4010, Waterbury, 92020, USA
+4011, Manchester, 92020, USA
+4012, Allentown, 92020, USA
+4013, McAllen, 92020, USA
+4014, Joliet, 92020, USA
+4015, Lowell, 92020, USA
+4016, Provo, 92020, USA
+4017, West Covina, 92020, USA
+4018, Wichita Falls, 92020, USA
+4019, Erie, 92020, USA
+4020, Daly City, 92020, USA
+4021, Citrus Heights, 92020, USA
+4022, Norwalk, 92020, USA
+4023, Gary, 92020, USA
+4024, Berkeley, 92020, USA
+4025, Santa Clara, 92020, USA
+4026, Green Bay, 92020, USA
+4027, Cape Coral, 92020, USA
+4028, Arvada, 92020, USA
+4029, Pueblo, 92020, USA
+4030, Sandy, 92020, USA
+4031, Athens-Clarke County, 92020, USA
+4032, Cambridge, 92020, USA
+4033, Westminster, 92020, USA
+4034, San Buenaventura, 92020, USA
+4035, Portsmouth, 92020, USA
+4036, Livonia, 92020, USA
+4037, Burbank, 92020, USA
+4038, Clearwater, 92020, USA
+4039, Midland, 92020, USA
+4040, Davenport, 92020, USA
+4041, Mission Viejo, 92020, USA
+4042, Miami Beach, 92020, USA
+4043, Sunrise Manor, 92020, USA
+4044, New Bedford, 92020, USA
+4045, El Cajon, 92020, USA
+4046, Norman, 92020, USA
+4047, Richmond, 92020, USA
+4048, Albany, 92020, USA
+4049, Brockton, 92020, USA
+4050, Roanoke, 92020, USA
+4051, Billings, 92020, USA
+4052, Compton, 92020, USA
+4053, Gainesville, 92020, USA
+4054, Fairfield, 92020, USA
+4055, Arden-Arcade, 92020, USA
+4056, San Mateo, 92020, USA
+4057, Visalia, 92020, USA
+4058, Boulder, 92020, USA
+4059, Cary, 92020, USA
+4060, Santa Monica, 92020, USA
+4061, Fall River, 92020, USA
+4062, Kenosha, 92020, USA
+4063, Elgin, 92020, USA
+4064, Odessa, 92020, USA
+4065, Carson, 92020, USA
+4066, Charleston, 92020, USA
+4067, Charlotte Amalie, 92020, VIR
+4068, Harare, 92020, ZWE
+4069, Bulawayo, 92020, ZWE
+4070, Chitungwiza, 92020, ZWE
+4071, Mount Darwin, 92020, ZWE
+4072, Mutare, 92020, ZWE
+4073, Gweru, 92020, ZWE
+4074, Gaza, 92020, PSE
+4075, Khan Yunis, 92020, PSE
+4076, Hebron, 92020, PSE
+4077, Jabaliya, 92020, PSE
+4078, Nablus, 92020, PSE
+4079, Rafah, 92020, PSE
