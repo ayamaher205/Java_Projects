@@ -3,6 +3,7 @@ import domain.City;
 import domain.Country;
 
 import java.util.*;
+import java.util.function.Function;
 import java.util.stream.Collectors;
 
 public class Main {
@@ -11,22 +12,37 @@ public class Main {
         Set<String> allContinents = worldDao.getContinents ();
         //System.out.println(allContinents);
         Map<String, Country> allCountries = worldDao.getCountries ();
-        Map<String, List<City>> citiesByCountryCode = allCountries.values()
-                .stream()
-                .flatMap(country -> country.getCities().stream().map(city -> new AbstractMap.SimpleEntry<>(country.getCode(), city)))
-                .collect(Collectors.groupingBy(Map.Entry::getKey,
-                        Collectors.mapping(Map.Entry::getValue, Collectors.toList())));
-        Map<String, City> mx = citiesByCountryCode.entrySet().stream().collect(Collectors.toMap(
-                Map.Entry::getKey,
-                entry -> entry.getValue().stream()
-                        .max(Comparator.comparing(City::getPopulation))
-                        .orElse(null)
+        Map<String,List<City>> MapCity  = allCountries.values().stream().collect(Collectors.toMap(
+                Country::getCode,
+                Country::getCities
         ));
-        //Map<String,Country> CityforContent = mx.values().stream().collect(Collectors.toMap(City::getCountryCode, Function.identity()))
-        System.out.println(mx);
-        Map<Integer, City> allCities = worldDao.getCities ();
-        //System.out.println(allCities.values());
-        worldDao.writeCountriesToFile (allCountries, "Countries.txt");
-        worldDao.writeCitiesToFile (allCities, "Cities.txt");
+        Map<String,City> HighestPopulated = MapCity.entrySet().stream().filter(entry -> !entry.getValue().isEmpty()).collect(Collectors.toMap(
+                entry ->entry.getKey(),entry->entry.getValue().stream().
+                        max(Comparator.comparing(City::getPopulation)).orElse(null)));
+        //System.out.println(HighestPopulated);
+        Map<String,List<Country>> countryCont=allCountries.values().stream().collect(Collectors.groupingBy(Country::getContinent));
+        Map<String, String> highestCityByContinent = countryCont.entrySet().stream().collect(Collectors.toMap(
+                e->e.getKey(),
+                e-> {
+                    List<City> allCities = new ArrayList<>();
+                    e.getValue().forEach((c) -> {
+                        allCities.addAll(c.getCities());
+                    });
+                    return allCities.stream().max(Comparator.comparing(City::getPopulation))
+                            .map(City::getName).orElse("");
+                }
+        ));
+                    System.out.println(highestCityByContinent);
+                   // System.out.println(HighestPopulated);
+        //System.out.println(Highestcont.keySet());
+        Map<String,Integer> MapCapital  = allCountries.values().stream().collect(Collectors.toMap(
+                Country::getCode,
+                Country::getCapital
+        ));
+        Map<String,City> HighestPopulatedCapital = MapCity.entrySet().stream().filter(entry -> !entry.getValue().isEmpty()).collect(Collectors.toMap(
+                entry ->entry.getKey(),entry->entry.getValue().stream().
+                        max(Comparator.comparing(City::getPopulation)).orElse(null)));
+         System.out.println(MapCapital.values());
+
     }
 }
